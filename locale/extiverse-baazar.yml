@@ -77,7 +77,7 @@ bazaar:
             extension:
                 installed: Eklenti yüklendi
                 enabled: Eklenti aktif
-                vendor: {vendor} tarafından
+                vendor: "{vendor} tarafından"
                 downloads: İndirilenler
                 installed_version: Yüklenmiş sürüm
                 highest_version: Son sürüm
@@ -109,10 +109,10 @@ bazaar:
                     unknown: Bilinmiyor
                 command:
                     sync-lock: composer.lock dosyasını eşitle
-                    sync-version: {extension} sürümünü eşitle
-                    install: {extension} yükle
-                    update: {extension} güncelle
-                    uninstall: {extension} kaldır
+                    sync-version: "{extension} sürümünü eşitle"
+                    install: "{extension} yükle"
+                    update: "{extension} güncelle"
+                    uninstall: "{extension} kaldır"
                 group:
                     today: Bugün
                     lastmonth: Geçen ay
