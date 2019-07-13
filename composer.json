@@ -28,21 +28,19 @@
             "name": "tolgaaaltas",
             "role": "Developer"
         }],
-        "extra": {
-            "flarum-extension": {
-                "title": "Turkish Extended Pack",
-                "icon": {
-                    "name": "fas fa-circle",
-                    "background": "#ffffff",
-                    "backgroundSize": "cover",
-                    "backgroundPosition": "center",
-                    "color": "#FF0000"
-                }
-            },
-            "flarum-locale": {
-                "code": "tr",
-                "title": "Turkish"
+        "flarum-extension": {
+            "title": "Turkish Extended Pack",
+            "icon": {
+                "name": "fas fa-circle",
+                "background": "#ffffff",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center",
+                "color": "#FF0000"
             }
+        },
+        "flarum-locale": {
+            "code": "tr",
+            "title": "Turkish"
         }
     }
 }
