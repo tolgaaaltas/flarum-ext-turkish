@@ -1,10 +1,12 @@
 {
-  "name": "FoF Turkish",
-  "description": "Turkish language suport for FoF extensions.",
+  "name": "tolgaaaltas/fof-turkish",
+  "description": "Turkish language pack for Flarum's third party extensions.",
   "keywords": [
-    "set",
-    "your",
-    "tags",
+    "flarum",
+    "extension",
+    "turkish",
+    "locale",
+    "translation"
   ],
   "type": "flarum-extension",
   "minimum-stability": "stable",
@@ -13,19 +15,27 @@
     "flarum/core": "^0.1.0-beta.9"
   },
   "suggest": {
-    "tolgaaaltas/fof-turkish": "Turkish language support for FoF extensions."
+    "cagatayldzz/lang-turkish": "Flarum language package for Turkish."
+  },
+  "support": {
+    "issues": "https://github.com/tolgaaaltas/flarum-ext-turkish/issues",
+    "source": "https://github.com/tolgaaaltas/flarum-ext-turkish/"
   },
   "authors": [
     {
-      "name": "Tolga Altaş",
+      "name": "tolgaaaltas",
       "role": "Developer"
     }
   ],
   "extra": {
     "flarum-extension": {
-      "title": "FoF Turkish Language",
+      "title": "Turkish Extended Pack",
       "icon": {
-        "name": "icon.svg",
+        "name": "fas fa-circle",
+        "background": "#ffffff",
+        "backgroundSize": "cover",
+        "backgroundPosition": "center",
+        "color": "#FF0000"
       }
     },
     "flarum-locale": {
