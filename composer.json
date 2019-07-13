@@ -20,10 +20,6 @@
     "issues": "https://github.com/tolgaaaltas/flarum-ext-turkish/issues",
     "source": "https://github.com/tolgaaaltas/flarum-ext-turkish/"
   },
-    "extra": {
-    "branch-alias": {
-      "dev-master": "0.1.x-dev"
-    },
   "authors": [
     {
       "name": "tolgaaaltas",
@@ -31,6 +27,8 @@
     }
   ],
   "extra": {
+        "branch-alias": {
+      "dev-master": "0.1.x-dev"
     "flarum-extension": {
       "title": "Turkish Extended Pack",
       "icon": {
