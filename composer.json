@@ -9,7 +9,6 @@
     "translation"
   ],
   "type": "flarum-extension",
-  "minimum-stability": "stable",
   "license": "MIT",
   "require": {
     "flarum/core": "^0.1.0-beta.9"
