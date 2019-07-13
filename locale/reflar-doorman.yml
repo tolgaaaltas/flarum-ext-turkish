@@ -7,8 +7,6 @@ reflar-doorman:
       doorman_placeholder_optional: Davet Kodu (opsiyonel)
 
   admin:
-    nav:
-      desc: Siteye davet kodu ile kayıt alın. 
     invalid_doorkey: Girdiğiniz davet kodu geçersiz.
     doorkey_required: Bir davet kodu oluşturmalısınız
     page:
