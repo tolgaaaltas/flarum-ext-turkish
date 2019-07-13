@@ -9,10 +9,9 @@
     "translation"
   ],
   "type": "flarum-extension",
-  "minimum-stability": "beta",
   "license": "MIT",
   "require": {
-    "flarum/core": "^0.1.0-beta.9"
+    "flarum/core": "^0.1.0-beta.8"
   },
   "suggest": {
     "cagatayldzz/lang-turkish": "Flarum language package for Turkish."
