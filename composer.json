@@ -1,47 +1,48 @@
 {
-  "name": "tolgaaaltas/flarum-ext-turkish",
-  "description": "Turkish language pack for Flarum's third party extensions.",
-  "keywords": [
-    "flarum",
-    "extension",
-    "turkish",
-    "locale",
-    "translation"
-  ],
-  "type": "flarum-extension",
-  "license": "MIT",
-  "require": {
-    "flarum/core": "^0.1.0-beta.8"
-  },
-  "suggest": {
-    "cagatayldzz/lang-turkish": "Flarum language package for Turkish."
-  },
-  "support": {
-    "issues": "https://github.com/tolgaaaltas/flarum-ext-turkish/issues",
-    "source": "https://github.com/tolgaaaltas/flarum-ext-turkish/"
-  },
-  "authors": [
-    {
-      "name": "tolgaaaltas",
-      "role": "Developer"
-    }
-  ],
-  "extra": {
-        "branch-alias": {
-      "dev-master": "0.1.x-dev"
-    "flarum-extension": {
-      "title": "Turkish Extended Pack",
-      "icon": {
-        "name": "fas fa-circle",
-        "background": "#ffffff",
-        "backgroundSize": "cover",
-        "backgroundPosition": "center",
-        "color": "#FF0000"
-      }
+    "name": "tolgaaaltas/flarum-ext-turkish",
+    "description": "Turkish language pack for Flarum's third party extensions.",
+    "keywords": [
+        "flarum",
+        "extension",
+        "turkish",
+        "locale",
+        "translation"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.8"
     },
-    "flarum-locale": {
-        "code": "tr",
-        "title": "Turkish"
+    "suggest": {
+        "cagatayldzz/lang-turkish": "Flarum language package for Turkish."
+    },
+    "support": {
+        "issues": "https://github.com/tolgaaaltas/flarum-ext-turkish/issues",
+        "source": "https://github.com/tolgaaaltas/flarum-ext-turkish/"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "authors": [{
+            "name": "tolgaaaltas",
+            "role": "Developer"
+        }],
+        "extra": {
+            "flarum-extension": {
+                "title": "Turkish Extended Pack",
+                "icon": {
+                    "name": "fas fa-circle",
+                    "background": "#ffffff",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "color": "#FF0000"
+                }
+            },
+            "flarum-locale": {
+                "code": "tr",
+                "title": "Turkish"
+            }
+        }
     }
-  }
 }
