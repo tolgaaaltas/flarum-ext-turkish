@@ -1,0 +1,36 @@
+{
+  "name": "FoF Turkish",
+  "description": "Turkish language suport for FoF extensions.",
+  "keywords": [
+    "set",
+    "your",
+    "tags",
+  ],
+  "type": "flarum-extension",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.9"
+  },
+  "suggest": {
+    "tolgaaaltas/fof-turkish": "Turkish language support for FoF extensions."
+  },
+  "authors": [
+    {
+      "name": "Tolga Altaş",
+      "role": "Developer"
+    }
+  ],
+  "extra": {
+    "flarum-extension": {
+      "title": "FoF Turkish Language",
+      "icon": {
+        "name": "icon.svg",
+      }
+    },
+    "flarum-locale": {
+        "code": "tr",
+        "title": "Turkish"
+    }
+  }
+}
