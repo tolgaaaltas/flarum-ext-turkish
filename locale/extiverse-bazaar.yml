@@ -1,7 +1,7 @@
 bazaar:
     admin:
         loader:
-            is_loading: İşeniyor..
+            is_loading: İşleniyor..
             error: Bir hata meydana geldi. Geçmiş sekmesinden ve Flarum loglarından detaylara göz atın. Sorunu bize bildirmekten çekinmeyin.
             refresh: Sayfayı yenile
             close: Kapat
