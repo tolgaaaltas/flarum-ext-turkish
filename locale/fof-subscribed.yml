@@ -1,8 +1,8 @@
 flagrow-subscribed:
     forum:
         settings:
-            defaults_label: "{setting}" varsayılan olarak aktif et
-            forced_label: "{setting}" herkes için etkinleştir
+            defaults_label: "{setting} varsayılan olarak aktif et"
+            forced_label: "{setting} herkes için etkinleştir"
             notify_discussion_created_label: Birisi tartışma oluşturduğunda
             notify_user_created_label: Birisi kayıt olduğunda
         notifications:
