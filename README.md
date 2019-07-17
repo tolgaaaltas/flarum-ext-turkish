@@ -12,6 +12,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 
 - 🌊 Syndication extension (RSS & Atom feeds) by AmauryPi
 - 🛒 Bazaar by Extiverse
+- 👅 Linguist by Flagrow
 - 🤑 Ads by FriendsOfFlarum
 - 📈 Analytics by FriendsOfFlarum
 - ⛔ Bans IPs by FriendsOfFlarum (Not released but translated)
