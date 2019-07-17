@@ -23,6 +23,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 📑 FrontPage by FriendsOfFlarum
 - 🤬 Ignore Users by FriendsOfFlarum
 - 🔗 Links by FriendsOfFlarum
+- 👓 Masquerade by FriendsOfFlarum
 - 📃 Pages by FriendsOfFlarum
 - 🗳 Polls by FriendsOfFlarum
 - 💤 Prevent Necrobumping by FriendsOfFlarum
@@ -41,6 +42,8 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 🚪 Doorman by ReFlar
 - 📊 Level Ranks by ReFlar
 - 🎃 Username Request by FriendsOfFlarum (Not released but translated)
+- 📤 Mailing by KILOWHAT
+- 👀 Reply2See by oakling
 
 ## Usage
 
