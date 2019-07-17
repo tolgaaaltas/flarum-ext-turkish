@@ -30,6 +30,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 🗿 Sentry by FriendsOfFlarum
 - ☑ reCAPTCHA by FriendsOfFlarum
 - 💌 Share Social by FriendsOfFlarum
+- 🤳 Social Profile by FriendsOfFlarum
 - 🚷 SpamBlock by FriendsOfFlarum
 - 🏃 Subscribed by FriendsOfFlarum
 - ㊗️ Transliterator by FriendsOfFlarum
