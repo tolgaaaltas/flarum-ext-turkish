@@ -12,6 +12,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 
 - 🌊 Syndication extension (RSS & Atom feeds) by AmauryPi
 - 🛒 Bazaar by Extiverse
+- 🧯 HTML Errors by Flagrow
 - 👅 Linguist by Flagrow
 - 🤑 Ads by FriendsOfFlarum
 - 📈 Analytics by FriendsOfFlarum
@@ -21,6 +22,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 📝 Custom Footer by FriendsOfFlarum
 - 📽 Formatting by FriendsOfFlarum
 - 📑 FrontPage by FriendsOfFlarum
+- 🎰 Gamification by FriendsOfFlarum
 - 🤬 Ignore Users by FriendsOfFlarum
 - 🔗 Links by FriendsOfFlarum
 - 👓 Masquerade by FriendsOfFlarum
@@ -44,6 +46,8 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 🎃 Username Request by FriendsOfFlarum (Not released but translated)
 - 📤 Mailing by KILOWHAT
 - 👀 Reply2See by oakling
+- 🆕 WebPush by nikovonlas
+- 💬 Best Answer by wiwatsrt
 
 ## Usage
 
