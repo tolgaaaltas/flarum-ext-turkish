@@ -14,8 +14,8 @@ fof-masquerade:
                 yes: Evet
                 no: Hayır
     admin:
-     title: Masquerade
-     general-options: Genel ayarlar
+        title: Masquerade
+        general-options: Genel ayarlar
         buttons:
             add-field: Alan oluştur
             edit-field: Değişiklikleri kaydet
