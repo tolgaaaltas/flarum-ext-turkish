@@ -12,11 +12,16 @@ composer require tolgaaaltas/flarum-ext-turkish
 
 - 🌊 Syndication extension (RSS & Atom feeds) by AmauryPi
 - 🛒 Bazaar by Extiverse
+- 📥 Contact Button by Fajuu
 - 🧯 HTML Errors by Flagrow
+- 🕵️‍♂️ Impersonate by Flagrow
 - 👅 Linguist by Flagrow
-- 🤑 Ads by FriendsOfFlarum
-- 📈 Analytics by FriendsOfFlarum
-- ⛔ Bans IPs by FriendsOfFlarum (Not released but translated)
+- 📄 Terms by Flagrow
+- 🤑 Ads by FriendsOfFlarum (FoF yml based)
+- 📈 Analytics by FriendsOfFlarum (FoF yml based)
+- 🕹 Discord Login by FriendsOfFlarum
+- ⛔ Bans IPs by FriendsOfFlarum (WIP but translated)
+- 👨‍💻 Byobu by FriendsOfFlarum
 - 📧 Disposable Emails by FriendsOfFlarum
 - 🏷 Follow Tags by FriendsOfFlarum
 - 📝 Custom Footer by FriendsOfFlarum
@@ -26,6 +31,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 🤬 Ignore Users by FriendsOfFlarum
 - 🔗 Links by FriendsOfFlarum
 - 👓 Masquerade by FriendsOfFlarum
+- 🤝 Merge Discussions by FriendsOfFlarum
 - 📃 Pages by FriendsOfFlarum
 - 🗳 Polls by FriendsOfFlarum
 - 💤 Prevent Necrobumping by FriendsOfFlarum
@@ -35,18 +41,26 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 💌 Share Social by FriendsOfFlarum
 - 🤳 Social Profile by FriendsOfFlarum
 - 🚷 SpamBlock by FriendsOfFlarum
+- 👐 Split by FriendsOfFlarum
 - 🏃 Subscribed by FriendsOfFlarum
 - ㊗️ Transliterator by FriendsOfFlarum
-- ⚡ Upload by FriendsOfFlarum
+- ⚡ Upload by FriendsOfFlarum (FoF yml based)
 - 👪 User Directory by FriendsOfFlarum
 - 📖 UserBio by FriendsOfFlarum
+- 🎃 Username Request by FriendsOfFlarum (WIP but translated)
+- 📤 Mailing by KILOWHAT
+- ⌨ Keyboard Shortcuts by kvothe
+- ➕ Sign Up Button by kvothe
+- 👁‍🗨 Discussions Views by MichaelBelgium
+- 👁 Profile Views by MichaelBelgium
+- 🆕 WebPush by nikovonlas
+- 👀 Reply2See by oakling
+- 🎲 Steam Auth by omiscz
 - 🍪 Cookie Consent by ReFlar
 - 🚪 Doorman by ReFlar
 - 📊 Level Ranks by ReFlar
-- 🎃 Username Request by FriendsOfFlarum (Not released but translated)
-- 📤 Mailing by KILOWHAT
-- 👀 Reply2See by oakling
-- 🆕 WebPush by nikovonlas
+- 🌃 Night Mode by ReFlar
+- 🔎 Google Auth by saleksin
 - 💬 Best Answer by wiwatsrt
 
 ## Usage
