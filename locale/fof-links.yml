@@ -13,22 +13,22 @@ fof-links:
       delete_link_confirmation: "Bu bağlantıyı silmek istediğine emin misin?"
       internal_link: "Bu bir Flarum bağlantısı mı?"
       open_newtab: "Bağlantıyı yeni sekmede aç"
-      submit_button: => Değişiklikleri Kaydet
-      title: => Bağlantı Oluştur
-      title_label: => Bağlantı metni
-      title_placeholder: => Bağlantı metnini buraya yazın.
-      url_label: => Bağlantı
-      url_placeholder: => Bağlantıyı buraya yazın.
+      submit_button: Değişiklikleri Kaydet
+      title: Bağlantı Oluştur
+      title_label: Bağlantı metni
+      title_placeholder: Bağlantı metnini buraya yazın.
+      url_label: Bağlantı
+      url_placeholder: Bağlantıyı buraya yazın.
 
     # These strings are used in the Links page.
     links:
       about_text: Menü bağlantılarını düzenle
-      create_button: => Bağlantı Oluştur
-      links: => Bağlantılar
+      create_button: Bağlantı Oluştur
+      links: Bağlantılar
 
     # These strings are used in the navigation bar.
     nav:
-      links_button: => Bağlantılar
+      links_button: Bağlantılar
       links_text: Üst menü bağlantılarını yönetin.
 
   # Strings in this namespace are referenced by two or more unique keys.
