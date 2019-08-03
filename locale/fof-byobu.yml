@@ -20,7 +20,7 @@ fof-byobu:
                 groups: Yetki Grupları
         modal:
             titles:
-                update_recipients: {title} alıcılarını güncelle
+                update_recipients: "{title} alıcılarını güncelle"
                 add_recipients: Tartışmana alıcı ekle
         post:
             recipients_modified:
