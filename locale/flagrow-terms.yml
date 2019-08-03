@@ -27,48 +27,48 @@ flagrow-terms:
                 Bu şartı silmek istediğinizden emin misiniz?
         policies:
             name: İsim
-            name-help: This name will be shown beside the checkbox and as the title of the update modal.
-            url: Url
-            url-help: The url to the page where you can read the terms. Will open in a new tab when clicked.
-            update-message: Update Message
-            update-message-help: A message to show to existing users who have not yet accepted the latest terms.
-            terms-updated-at: Updated at
-            terms-updated-at-placeholder: YYYY-MM-DD (hh:mm:ss)
+            name-help: Bu isim güncelleme penceresinin başlığı olarak onay kutusu ile birlikte gözükecek.
+            url: Bağlantı
+            url-help: Şartları okuyabileceğiniz sayfaya giden bir bağlantı. Tıklandığında yeni bir sayfada açılacak.
+            update-message: Mesajı Güncelle
+            update-message-help: Son şartları kabul etmemiş kullanıcılara gösterilecek mesaj.
+            terms-updated-at: "Güncelleme:"
+            terms-updated-at-placeholder: YYYY-AA-GG (ss:dd:ss)
             terms-updated-at-help: >
-                The date of the last terms update.
-                Setting this value will require all users who accepted prior to that date to accept again.
-                Must be in the past (otherwise users would never be able to accept after the date and get past the modal).
-            export-url: Export url
+                Son şart güncellemesinin tarihi.
+                Bu değeri ayarlamak önceki şartları kabul etmiş kullanıcıların şartıları tekrar kabul etmesini gerektirecektir.
+                Geçmişte olmak zorunda (yoksa kullanıcılar şartları asla kabul edemez ve pencereyi kapatamayacaklardır).
+            export-url: Bağlantıyı dışa aktar
             export-url-help: >
-                Any user with permission "Export all policies data" can access those urls to download the list of users who accepted this policy.
-                You can find more details about the available options on the <a>extension wiki</a>.
+                "Bütün şart verilerini dışa aktar" iznine sahip olan bütün kullanıcılar şartları kabul etmiş kullanıcıların listesini indirme bağlantılarına ulaşabilir.
+                <a>extension wiki</a> bağlantısında daha fazla detay bulabilirsiniz.
         permissions:
-            see-user-policies-state: See the user policies state
-            postpone-policies-accept: Can postpone accepting the new terms
-            export-policies: Tüm kullanıcı ve şartlar verilerini dışarı aktar
+            see-user-policies-state: Kullanıcı şartları durumunu görebilir
+            postpone-policies-accept: Yeni şartları kabul etmeyi erteleyebilir
+            export-policies: Tüm kullanıcı ve şartlar verilerini dışarı aktarabilir
 
     forum:
         signup:
             i-accept: <a>{policy}</a> kabul ediyorum
-            must-accept: {policy} mutlaka kabul edilmelidir.
+            must-accept: "{policy} mutlaka kabul edilmelidir."
 
         accept-modal:
-            title: Terms Update
-            updated-at: The terms were updated on {date}
-            updated-recently: The terms were updated since your last visit
-            i-accept: I accept the new <a>{policy}</a>
-            accept: Confirm
-            close: You can now close this modal
+            title: Şartlar Güncellemesi
+            updated-at: Şartlar {date} tarihinde güncellendi
+            updated-recently: Şartlar son girişinizden beri güncellendi
+            i-accept: <a>{policy}</a> şartını kabul ediyorum
+            accept: Onayla
+            close: Artık bu pencereyi kapatabilirsiniz
 
         state-modal:
-            title: Terms accept state for user {username}
-            accepted-at: Accepted at {date}
-            not-accepted: Not accepted
+            title: "{username} için şartları kabul etme durumu"
+            accepted-at: "{date} tarihinde kabul edildi"
+            not-accepted: Kabul edilmedi
 
         update-alert:
-            must-accept-message: We've temporarily restricted access to your account while you check out the new terms.
-            can-accept-message: We recently updated the terms. You must accept them to continue using this website.
+            must-accept-message: Yeni şartlara göz atana kadar hesabınıza erişimi kısıtladık.
+            can-accept-message: Yakın zamanda şartları güncelledik. Siteyi kullanmaya devam etmek için şartları kabul etmelisiniz.
             review: Yeni şartları incelemek ve kabul etmek için buraya tıklayın
 
         user_controls:
-            state_button: Terms accept state
+            state_button: Şartları kabul etme durumu
