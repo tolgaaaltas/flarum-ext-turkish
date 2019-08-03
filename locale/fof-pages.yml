@@ -9,7 +9,7 @@ fof-pages:
 
     # These strings are used in the Edit Page modal dialog.
     edit_page:
-      content_label:İçerik
+      content_label: İçerik
       content_placeholder: Sayfa içeriğini buraya yazın.
       delete_page_button: Sayfayı Sil
       delete_page_confirmation: "Bu sayfayı silmek istediğinize emin misiniz?"
