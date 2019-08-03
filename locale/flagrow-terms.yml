@@ -1,7 +1,7 @@
 flagrow-terms:
     admin:
         settings:
-            title: Şartlar Ayarları
+            title: Şart Ayarları
 
             field:
                 signup-legal-text: Kayıt formu için ek metin
@@ -10,21 +10,21 @@ flagrow-terms:
                 date-format-help: Herhangi bir <a>Moment.js</a> formatını kullabilirsiniz. Varsayılan için boş bırakın.
 
         titles:
-            policies: Politikalar
+            policies: Şartlar
 
         buttons:
-            new-policy: Yeni Politika
-            edit-policy: Politikayı Düzenle
-            add-policy: Politika Ekle
-            save-policy: Politikayı Kaydet
-            delete-policy: Politikayı Sil
+            new-policy: Yeni Şart
+            edit-policy: Şartı Düzenle
+            add-policy: Şart Ekle
+            save-policy: Şartı Kaydet
+            delete-policy: Şartı Sil
             set-to-now: Ayarla
 
         messages:
             delete-policy-confirmation: >
-                This will permanently delete the policy {name} and the associated accept dates from the database.
-                Please make sure you made a backup of those dates if you need them for legal reasons.
-                Are you sure you want to delete this policy ?
+                Bu {name} şartını ve bağlantılı bütün kabul etme tarihlerini kalıcı olarak silecek.
+                Yasal nedenleriniz varsa lütfen bu tarihlerin bir yedeği olduğuna emin olunuz.
+                Bu şartı silmek istediğinizden emin misiniz?
         policies:
             name: İsim
             name-help: This name will be shown beside the checkbox and as the title of the update modal.
@@ -45,12 +45,12 @@ flagrow-terms:
         permissions:
             see-user-policies-state: See the user policies state
             postpone-policies-accept: Can postpone accepting the new terms
-            export-policies: Export all users and policies data
+            export-policies: Tüm kullanıcı ve şartlar verilerini dışarı aktar
 
     forum:
         signup:
-            i-accept: I accept the <a>{policy}</a>
-            must-accept: The {policy} must be accepted.
+            i-accept: <a>{policy}</a> kabul ediyorum
+            must-accept: {policy} mutlaka kabul edilmelidir.
 
         accept-modal:
             title: Terms Update
