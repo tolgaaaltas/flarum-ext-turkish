@@ -11,6 +11,10 @@ composer require tolgaaaltas/flarum-ext-turkish
 ## Extension list
 
 - 🌊 Syndication extension (RSS & Atom feeds) by AmauryPi
+- 📧 Mail.ru Auth by dem13n
+- 💭 Vkontakte Auth by dem13n
+- 🔍 Yandex Auth by dem13n
+- 🤹‍♀️ Nickname Changer by dem13n
 - 🛒 Bazaar by Extiverse
 - 📥 Contact Button by Fajuu
 - 🧯 HTML Errors by Flagrow
@@ -20,6 +24,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 🤑 Ads by FriendsOfFlarum (FoF yml based)
 - 📈 Analytics by FriendsOfFlarum (FoF yml based)
 - 🕹 Discord Login by FriendsOfFlarum
+- 👩‍💻 GitLab Login by FriendsOfFlarum
 - ⛔ Bans IPs by FriendsOfFlarum (WIP but translated)
 - 👨‍💻 Byobu by FriendsOfFlarum
 - 💾 Drafts by FriendsOfFlarum
@@ -55,6 +60,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 👁‍🗨 Discussions Views by MichaelBelgium
 - 👁 Profile Views by MichaelBelgium
 - 🆕 WebPush by nikovonlas
+- 👨‍💼 LinkedIn Auth by nomiscz
 - 👀 Reply2See by oakling
 - 🎲 Steam Auth by omiscz
 - 🍪 Cookie Consent by ReFlar
@@ -62,6 +68,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 📊 Level Ranks by ReFlar
 - 🌃 Night Mode by ReFlar
 - 🔎 Google Auth by saleksin
+- 🖼 Fancybox by squeevee
 - 💬 Best Answer by wiwatsrt
 
 ## Usage
