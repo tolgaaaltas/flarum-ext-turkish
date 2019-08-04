@@ -59,4 +59,4 @@ fof-masquerade:
             boolean: Seçim listesi
             email: E-posta
             select: Açılır menü
-            url: Url
+            url: Bağlantı
