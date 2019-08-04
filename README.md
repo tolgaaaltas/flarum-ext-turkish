@@ -11,7 +11,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 ## Extension list
 
 - 🌊 Syndication extension (RSS & Atom feeds) by AmauryPi
-- 📧 Mail.ru Auth by dem13n
+- 📮 Mail.ru Auth by dem13n
 - 💭 Vkontakte Auth by dem13n
 - 🔍 Yandex Auth by dem13n
 - 🤹‍♀️ Nickname Changer by dem13n
