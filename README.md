@@ -22,6 +22,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 🕹 Discord Login by FriendsOfFlarum
 - ⛔ Bans IPs by FriendsOfFlarum (WIP but translated)
 - 👨‍💻 Byobu by FriendsOfFlarum
+- 💾 Drafts by FriendsOfFlarum
 - 📧 Disposable Emails by FriendsOfFlarum
 - 🏷 Follow Tags by FriendsOfFlarum
 - 📝 Custom Footer by FriendsOfFlarum
