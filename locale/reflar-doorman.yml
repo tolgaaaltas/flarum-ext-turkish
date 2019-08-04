@@ -9,6 +9,8 @@ reflar-doorman:
   admin:
     invalid_doorkey: Girdiğiniz davet kodu geçersiz.
     doorkey_required: Bir davet kodu oluşturmalısınız
+    nav:
+      desc: Kullanıcıların kaydolması ve bir gruba atanması için davet kodları oluşturun
     page:
       title: Doorman
       doorkey:
