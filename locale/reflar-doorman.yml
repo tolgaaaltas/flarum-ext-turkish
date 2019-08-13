@@ -19,7 +19,7 @@ reflar-doorman:
           activates: "Kullanıcıyı Etkinleştir: Kayıt olan kullanıcıyı otomatik olarak etkinleştirir."
           group: "Grup: Kullanıcının kayıt olurken ekleneceği grup."
           key: "Anahtar: Kayıt sırasında kullanıcının girmesi gereken kod."
-          max: "Maksimum Kullanım: Bir kodun kaç defa kullanılabileceğini belirtir, <b>0</b> değeri sınırsız kullanım sağlar."
+          max: "Maksimum Kullanım: Bir kodun kaç defa kullanılabileceğini belirtir, 0 değeri sınırsız kullanım sağlar."
         key: Anahtar
         max_uses: "Maksimum Kullanım"
         title: "Davetiye Kodları"
