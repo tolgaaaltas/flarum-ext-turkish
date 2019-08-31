@@ -8,7 +8,7 @@ flarum-best-answer:
             allow_select_own_post: "Kullanıcının kendi gönderisini seçmesine izin ver"
             select_best_answer_reminder_days: Kullanıcıya X günden sonra en iyi cevabı seçmesini hatırlat
     forum:
-        this_best_answer: "Bu, en iyi cevap"
+        this_best_answer: "En iyi cevap"
         remove_best_answer: "Mevcut en iyi cevabı kaldır"
         header_best_answer: "Gönderi sahibi tarafından en iyi cevap olarak işaretlendi"
         best_answer_button: En İyi Cevap
