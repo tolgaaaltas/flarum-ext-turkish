@@ -16,7 +16,7 @@ fof-merge-discussions:
       merge: => fof-merge-discussions.ref.merge
 
     post:
-      merged: <b>{count}</b> gönderi {titles} tartışmasında birleştirildi.|<b>{count}</b> gönderi {titles} tartışmasında birleştirildi.
+      merged: <b>{count}</b> gönderi {titles} tartışmasından birleştirildi.|<b>{count}</b> gönderi {titles} tartışmasından birleştirildi.
 
   admin:
     permissions:
