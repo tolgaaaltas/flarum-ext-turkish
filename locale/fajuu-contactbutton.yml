@@ -1,8 +1,8 @@
 fajuu-contactbutton:
   admin:
     settings:
-      title: İletişim butonu
-      label: Butonun adı
-      url: E-posta adresi veya site bağlantısı
-      icon: Buton ikonu
-      newtab: Bağlantıyı yeni sekmede aç (e-posta için her zaman)
+      title: 'İletişim butonu'
+      label: 'Butonun adı'
+      url: 'E-posta adresi veya site bağlantısı'
+      icon: 'Buton ikonu'
+      newtab: 'Bağlantıyı yeni sekmede aç (e-posta için her zaman)'

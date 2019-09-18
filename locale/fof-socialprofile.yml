@@ -3,9 +3,9 @@ fof-socialprofile:
     edit:
       edit: Düzenle
       add: Ekle
-      headtitle: Butonları Düzenle
+      headtitle: 'Butonları Düzenle'
       title: Başlık
       url: Bağlantı
       submit: Kaydet
       delete: Sil
-      deletetitle: Butonu Sil
+      deletetitle: 'Butonu Sil'

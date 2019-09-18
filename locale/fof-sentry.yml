@@ -1,7 +1,7 @@
 fof-sentry:
   admin:
     settings:
-      dsn_label: Sentry DSN
-      user_feedback_label: Kullanıcı Geribildirimi
-      javascript_label: JavaScript Hatalarını Bildirin
-      javascript_console_label: JavaScript Konsolunu Takip Et
+      dsn_label: 'Sentry DSN'
+      user_feedback_label: 'Kullanıcı Geribildirimi'
+      javascript_label: 'JavaScript Hatalarını Bildirin'
+      javascript_console_label: 'JavaScript Konsolunu Takip Et'

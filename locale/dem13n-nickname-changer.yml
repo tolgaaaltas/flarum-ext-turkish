@@ -1,8 +1,19 @@
 dem13n:
   forum:
     nickname:
-      nick: Kullanıcı adı
-      success: başarıyla değiştirildi.
+      head_title: Nickname
+      new_nickname: 'Enter a new nickname'
+      change: 'Kullanıcı Adını Değiştir'
+      admin_change_nickname: '{username} changed your nickname to <strong>{actor}</strong>'
+      admin_delete_nickname: '{username} delete your nickname'
+      submit_button: '=> core.ref.save_changes'
+      nick: 'Kullanıcı adı'
+      success: 'başarıyla değiştirildi.'
       close: Kapat
-      change: Kullanıcı Adını Değiştir
       done: Değiştir
+  admin:
+    nickname:
+      settings_modal_title: 'Settings Nickname Changer'
+      unlimited_nickname_change: 'Unlimited nickname change'
+      allow_nickname_change: 'Allow nickname change'
+      submit_button: '=> core.ref.save_changes'

@@ -1,0 +1,69 @@
+nikovonlas-webpush:
+  forum:
+    subscribe: 'Tarayıcı bildirimlerine abone olun'
+    unsubscribe: 'Tarayıcı bildirimleri aboneliklerini durdurun'
+  admin:
+    settings:
+      title: 'WebPush Settings'
+      type:
+        description: 'Onesignal type of connector'
+        standart: Standart
+        custom: Custom
+      app_id: 'Onesignal app id'
+      api_key: 'Onesignal api key'
+      user_key: 'Onesignal user key'
+      subdomain: 'Onesignal subdomain'
+      excerpt: 'Length of excerpt in notifications'
+      autoprompt: 'Show permission prompt immediately to authorize users'
+    web-push-settings:
+      title: 'Tarayıcı Bildirimleri Ayarları'
+      type:
+        description: 'OneSignal bağlantı türü'
+        standart: Standart
+        custom: Özel
+      app_id: 'OneSignal App ID'
+      api_key: 'OneSignal App Key'
+      user_key: 'OneSignal User key'
+      subdomain: 'OneSignal Subdomain'
+      excerpt: 'Bildirimdeki alıntıların uzunluğu'
+  notify:
+    like:
+      title: 'Gönderin beğenildi'
+      message: '{from} senin gönderini beğendi "{post}"'
+    mention-post:
+      title: 'Bir gönderide bahsedildin'
+      message: '{from} senden gönderide bahsetti "{post}"'
+    mention:
+      title: 'Bir gönderide bahsedildin'
+      message: '{from} senden bir gönderide bahsetti "{post}"'
+    post:
+      title: 'Abone olduğun bölümde yeni gönderi'
+      message: '{from} yeni bir gönderi oluşturdu "{post}"'
+    tag:
+      discussion:
+        title: 'Takip edilen etikette yeni bir tartışma'
+        message: '{from} yeni bir tartışma başlattı "{title}"'
+      post:
+        title: 'Takip edilen etikette yeni bir gönderi'
+        message: '{from} yeni bir gönderi oluşturdu "{post}"'
+    rename:
+      title: 'Tartışmanın adı değiştirildi'
+      message: '{from} tartışmanın adını değiştirdi "{title}"'
+    lock:
+      title: 'Tartışma kilitlendi'
+      message: '{from} tartışmanı kilitledi "{title}"'
+    delete:
+      title: 'Tartışma silindi'
+      message: '{from} tartışmanı sildi "{title}"'
+    suspend:
+      title: 'Hesabınız askıya alındı'
+      message: '{from} hesabını askıya aldı'
+    unsuspend:
+      title: 'You account was unsuspended'
+      message: '{from} unsuspend you account'
+    flag:
+      title: 'New flagged post'
+      message: '{from} flag post "{post}"'
+    гтsuspend:
+      title: 'Hesabınız erişilebilir'
+      message: '{from} hesabınızın erişimini açtı'
