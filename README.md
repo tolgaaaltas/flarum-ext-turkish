@@ -21,7 +21,6 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 📥 Contact Button by Fajuu
 - 🧯 HTML Errors by Flagrow
 - 🕵️‍♂️ Impersonate by Flagrow
-- 👅 Linguist by Flagrow
 - 📄 Terms by Flagrow
 - 🤑 Ads by FriendsOfFlarum (FoF yml based)
 - 📈 Analytics by FriendsOfFlarum (FoF yml based)
@@ -37,6 +36,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - 📑 FrontPage by FriendsOfFlarum
 - 🎰 Gamification by FriendsOfFlarum
 - 🤬 Ignore Users by FriendsOfFlarum
+- 👅 Linguist by FriendsOfFlarum
 - 🔗 Links by FriendsOfFlarum
 - 👓 Masquerade by FriendsOfFlarum
 - 🤝 Merge Discussions by FriendsOfFlarum
