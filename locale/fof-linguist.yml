@@ -1,4 +1,4 @@
-flagrow-linguist:
+fof-linguist:
     admin:
         menu:
             title: Linguist
@@ -21,3 +21,8 @@ flagrow-linguist:
             without-original-translations-in-locales: Asıl çeviriler olmadan
             for-extension: Eklentiler için
             results: "{total} eşleşen çeviriden {shown} adeti gösteriliyor"
+        clear-cache:
+            text: >
+                Yeni çeviriler henüz uygulanmadı.
+                Not: Önbelleği temizlemek forumunuzu geçici olarak yavaşlatabilir.
+            button: Önbelleği şimdi temizle
