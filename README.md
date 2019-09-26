@@ -1,4 +1,4 @@
-# flarum-ext-turkish
+# 🇹🇷 Turkish Extended Pack by tolgaaaltas
 
 Translates Flarum extensions to Turkish
 
