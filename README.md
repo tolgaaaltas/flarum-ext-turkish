@@ -58,6 +58,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [👪 User Directory by FriendsOfFlarum](https://discuss.flarum.org/d/5682-user-directory-by-friendsofflarum)
 - [📖 UserBio by FriendsOfFlarum](https://discuss.flarum.org/d/17775-friendsofflarum-user-bio)
 - [🎃 Username Request by FriendsOfFlarum](https://discuss.flarum.org/d/20956-friendsofflarum-username-request)
+- [🌎GeoIP by FriendsOfFlarum](https://discuss.flarum.org/d/21493-friendsofflarum-geoip)
 - [📤 Mailing by KILOWHAT](https://discuss.flarum.org/d/20443-mailing-by-kilowhat)
 - [⌨ Keyboard Shortcuts by kvothe](https://discuss.flarum.org/d/19301-keyboard-shortcuts)
 - [➕ Sign Up Button by kvothe](https://discuss.flarum.org/d/18812-sign-up-button)
