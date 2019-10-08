@@ -21,6 +21,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [📥 Contact Button by Fajuu](https://discuss.flarum.org/d/18228-contact-button)
 - [🧯 HTML Errors by Flagrow](https://discuss.flarum.org/d/10784-custom-html-error-pages)
 - [🕵️‍♂️ Impersonate by Flagrow](https://discuss.flarum.org/d/9868-flagrow-impersonate-login-as-other-users)
+- [🛫 Telegram login and notifications by Flagrow](https://discuss.flarum.org/d/9033-telegram-login-and-notifications-by-flagrow)
 - [📄 Terms by Flagrow](https://discuss.flarum.org/d/11714-flagrow-terms-ask-your-users-to-accept-tos-and-privacy-policy)
 - [🤑 Ads by FriendsOfFlarum](https://discuss.flarum.org/d/4785-flagrow-ads-bombarding-your-users-with-ads-everywhere-if-you-want)
 - [📈 Analytics by FriendsOfFlarum](https://discuss.flarum.org/d/1983-flagrow-analytics-extension-tracking-user-visits)
