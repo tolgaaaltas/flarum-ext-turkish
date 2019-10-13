@@ -74,6 +74,8 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [📊 Level Ranks by ReFlar](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar)
 - [🔎 Google Auth by saleksin](https://discuss.flarum.org/d/18250-google-login)
 - [🖼 FancyBox by squeevee](https://discuss.flarum.org/d/19535-fancybox-extension-beta)
+- [📔 Profile Cover by SychO9](https://github.com/SychO9/flarum-profile-cover)
+- [🙄 Login2See by WiseClock](https://discuss.flarum.org/d/5168-login2see)
 - [💬 Best Answer by wiwatsrt](https://discuss.flarum.org/d/3868-select-post-best-answer)
 
 ## Usage
