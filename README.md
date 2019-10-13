@@ -77,6 +77,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [📔 Profile Cover by SychO9](https://github.com/SychO9/flarum-profile-cover)
 - [🙄 Login2See by WiseClock](https://discuss.flarum.org/d/5168-login2see)
 - [💬 Best Answer by wiwatsrt](https://discuss.flarum.org/d/3868-select-post-best-answer)
+- [📣 Announce by zerosonesfun](https://github.com/zerosonesfun/announce)
 
 ## Usage
 
