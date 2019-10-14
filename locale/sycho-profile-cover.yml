@@ -2,6 +2,7 @@ sycho-profile-cover:
   admin:
     settings: Profil Kapağı Ayarları
     thumbnails: Küçük resimler oluştur
+    max_size: Maksimum profil kapak fotoğrafı boyutu (KB cinsinden) 
     cover_size: Resim boyutları
     thumb_size: Küçük resim boyutları
     size_of_images: "{count} resim yüklenmiş ve {size} alan kullanılıyor|{count} resim yüklenmiş ve {size} alan kullanılıyor"
