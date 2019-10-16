@@ -76,6 +76,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🔎 Google Auth by saleksin](https://discuss.flarum.org/d/18250-google-login)
 - [🖼 FancyBox by squeevee](https://discuss.flarum.org/d/19535-fancybox-extension-beta)
 - [📔 Profile Cover by SychO9](https://github.com/SychO9/flarum-profile-cover)
+- [🚧 Closed Discussions by vestosers](https://discuss.flarum.org/d/21698-hiqstd-closed-discussion)
 - [🙄 Login2See by WiseClock](https://discuss.flarum.org/d/5168-login2see)
 - [💬 Best Answer by wiwatsrt](https://discuss.flarum.org/d/3868-select-post-best-answer)
 - [📣 Announce by zerosonesfun](https://github.com/zerosonesfun/announce)
