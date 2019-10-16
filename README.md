@@ -63,6 +63,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [📤 Mailing by KILOWHAT](https://discuss.flarum.org/d/20443-mailing-by-kilowhat)
 - [⌨ Keyboard Shortcuts by kvothe](https://discuss.flarum.org/d/19301-keyboard-shortcuts)
 - [➕ Sign Up Button by kvothe](https://discuss.flarum.org/d/18812-sign-up-button)
+- [♾ Flarum SSO by maicol07](https://discuss.flarum.org/d/21666-single-sign-on-sso-with-wordpress-integration)
 - [👁‍🗨 Discussions Views by MichaelBelgium](https://discuss.flarum.org/d/7339-discussion-views)
 - [👁 Profile Views by MichaelBelgium](https://discuss.flarum.org/d/7596-profile-views)
 - [🆕 WebPush by nikovonlas](https://discuss.flarum.org/d/20784-onesignal-web-push-notifications)
