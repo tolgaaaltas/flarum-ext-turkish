@@ -1,0 +1,13 @@
+clarkwinkelmann-author-change:
+    forum:
+        controls:
+            edit: Yazarı Düzenle
+        modal:
+            title-post: Gönderi Yazarını Düzenle
+            title-discussion: Tartışma Yazarını Düzenle
+            search_placeholder: Kullanıcılarda ara
+            submit: Kaydet
+            cancel: İptal
+    admin:
+        permissions:
+            edit: Tartışma ve gönderi yazarını değiştirme
