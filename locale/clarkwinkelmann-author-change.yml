@@ -5,9 +5,12 @@ clarkwinkelmann-author-change:
         modal:
             title-post: Gönderi Yazarını Düzenle
             title-discussion: Tartışma Yazarını Düzenle
-            search_placeholder: Kullanıcılarda ara
             submit: Kaydet
             cancel: İptal
+        search:
+            placeholder: Kullanıcılarda ara
+            type-more: Veritabanında aramak için en az 3 karakter yazın
+            no-results: Sonuç yok
     admin:
         permissions:
             edit: Tartışma ve gönderi yazarını değiştirme
