@@ -1,4 +1,4 @@
-flagrow-terms:
+fof-terms:
     admin:
         settings:
             title: Şart Ayarları
@@ -25,6 +25,7 @@ flagrow-terms:
                 Bu {name} şartını ve bağlantılı bütün kabul etme tarihlerini kalıcı olarak silecek.
                 Yasal nedenleriniz varsa lütfen bu tarihlerin bir yedeği olduğuna emin olunuz.
                 Bu şartı silmek istediğinizden emin misiniz?
+
         policies:
             name: İsim
             name-help: Bu isim güncelleme penceresinin başlığı olarak onay kutusu ile birlikte gözükecek.
@@ -42,6 +43,7 @@ flagrow-terms:
             export-url-help: >
                 "Bütün şart verilerini dışa aktar" iznine sahip olan bütün kullanıcılar şartları kabul etmiş kullanıcıların listesini indirme bağlantılarına ulaşabilir.
                 <a>extension wiki</a> bağlantısında daha fazla detay bulabilirsiniz.
+
         permissions:
             see-user-policies-state: Kullanıcı şartları durumunu görebilir
             postpone-policies-accept: Yeni şartları kabul etmeyi erteleyebilir
