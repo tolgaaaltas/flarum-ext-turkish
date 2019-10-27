@@ -2,6 +2,8 @@ perspective:
   admin:
     settings:
       title: Perspective Ayarları
+      donotstore: Saklama
+      usemax: Maksimum Planı Kullan
       field:
         api_key: API Anahtarı
         threshold: Bildirilme Sınırı
