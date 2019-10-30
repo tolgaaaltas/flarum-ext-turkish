@@ -65,6 +65,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [⌨ Keyboard Shortcuts by kvothe](https://discuss.flarum.org/d/19301-keyboard-shortcuts)
 - [➕ Sign Up Button by kvothe](https://discuss.flarum.org/d/18812-sign-up-button)
 - [♾ Flarum SSO by maicol07](https://discuss.flarum.org/d/21666-single-sign-on-sso-with-wordpress-integration)
+- [🖼 Imgur Upload by matteocontrini](https://discuss.flarum.org/d/18491-imgur-upload-simple-image-upload-from-the-editor) (IMPORTANT NOTE: IMGUR STILL BLOCKED IN TURKEY)
 - [👁‍🗨 Discussions Views by MichaelBelgium](https://discuss.flarum.org/d/7339-discussion-views)
 - [👁 Profile Views by MichaelBelgium](https://discuss.flarum.org/d/7596-profile-views)
 - [🆕 WebPush by nikovonlas](https://discuss.flarum.org/d/20784-onesignal-web-push-notifications)
