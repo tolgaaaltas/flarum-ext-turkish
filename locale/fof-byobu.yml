@@ -45,7 +45,7 @@ fof-byobu:
             edit_user_recipients: Özel tartışmalarda yer alan kullanıcıları düzenle
             edit_group_recipients: Özel tartışmalarda yer alan grupları düzenle
             
-      settings:
+        settings:
             byobu_users_page_label: Kullanıcı sayfasına özel tartışma butonu ekle
 
     notifications:
