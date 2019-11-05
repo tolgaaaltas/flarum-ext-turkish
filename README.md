@@ -28,6 +28,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🕹 Discord Login by FriendsOfFlarum](https://discuss.flarum.org/d/20184-friendsofflarum-discord-login)
 - [👩‍💻 GitLab Login by FriendsOfFlarum](https://discuss.flarum.org/d/20371-friendsofflarum-gitlab-login)
 - [⛔ Bans IPs by FriendsOfFlarum](https://discuss.flarum.org/d/20949-friendsofflarum-ban-ips)
+- [💬 Best Answer by FriendsOfFlarum](https://discuss.flarum.org/d/21894-friendsofflarum-best-answer)
 - [👨‍💻 Byobu by FriendsOfFlarum](https://discuss.flarum.org/d/4762-friendsofflarum-by-bu-well-integrated-advanced-private-discussions)
 - [💾 Drafts by FriendsOfFlarum](https://discuss.flarum.org/d/20957-friendsofflarum-drafts)
 - [📧 Disposable Emails by FriendsOfFlarum](https://discuss.flarum.org/d/20457-friendsofflarum-disposable-emails)
@@ -81,7 +82,6 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [⚠ Perspective by tankerkiller125](https://discuss.flarum.org/d/21784-perspective-api)
 - [🚧 Closed Discussions by vestosers](https://discuss.flarum.org/d/21698-hiqstd-closed-discussion)
 - [🙄 Login2See by WiseClock](https://discuss.flarum.org/d/5168-login2see)
-- [💬 Best Answer by wiwatsrt](https://discuss.flarum.org/d/3868-select-post-best-answer)
 - [📣 Announce by zerosonesfun](https://github.com/zerosonesfun/announce)
 
 ## Usage
