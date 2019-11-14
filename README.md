@@ -13,6 +13,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🌊 Syndication extension (RSS & Atom feeds) by AmauryPi](https://discuss.flarum.org/d/4395-syndication-extension-rss-atom-feeds)
 - [🤹‍♂️ Author Change by clarkwinkelmann](https://discuss.flarum.org/d/21731-discussion-and-post-author-change)
 - [⏲ Change post date by clarkwinkelmann](https://discuss.flarum.org/d/21247-change-post-date)
+- [😆 Status by clarkwinkelmann](https://discuss.flarum.org/d/21983-user-status)
 - [📮 Mail.ru Auth by dem13n](https://github.com/Dem13n/auth-mailru)
 - [🧍‍ Ok.ru Auth by dem13n](https://github.com/Dem13n/auth-odnoklassniki)
 - [💭 Vkontakte Auth by dem13n](https://github.com/Dem13n/auth-vkontakte)
