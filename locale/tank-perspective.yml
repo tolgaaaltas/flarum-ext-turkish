@@ -4,6 +4,7 @@ perspective:
       title: Perspective Ayarları
       donotstore: Saklama
       usemax: Maksimum Planı Kullan
+      useexperimental: Deneyimsel Modeli Kullan
       field:
         api_key: API Anahtarı
         threshold: Bildirilme Sınırı
