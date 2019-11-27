@@ -11,6 +11,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 ## Extension list
 
 - [🌊 Syndication extension (RSS & Atom feeds) by AmauryPi](https://discuss.flarum.org/d/4395-syndication-extension-rss-atom-feeds)
+- [🤑 Money by antoinefr](https://discuss.flarum.org/d/4699-money-extension)
 - [🤹‍♂️ Author Change by clarkwinkelmann](https://discuss.flarum.org/d/21731-discussion-and-post-author-change)
 - [⏲ Change post date by clarkwinkelmann](https://discuss.flarum.org/d/21247-change-post-date)
 - [😆 Status by clarkwinkelmann](https://discuss.flarum.org/d/21983-user-status)
