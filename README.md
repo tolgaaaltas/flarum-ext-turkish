@@ -65,6 +65,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🎃 Username Request by FriendsOfFlarum](https://discuss.flarum.org/d/20956-friendsofflarum-username-request)
 - [🌎GeoIP by FriendsOfFlarum](https://discuss.flarum.org/d/21493-friendsofflarum-geoip)
 - [🔦 Google Search by irony](https://github.com/892768447/flarum-ext-google-search)
+- [🙄 Login2See by WiseClock](https://discuss.flarum.org/d/5168-login2see)
 - [💱 Multi-Purpose Affiliation Links Generator by KILOWHAT](https://discuss.flarum.org/d/21833-multi-purpose-affiliation-links-generator)
 - [📤 Mailing by KILOWHAT](https://discuss.flarum.org/d/20443-mailing-by-kilowhat)
 - [⌨ Keyboard Shortcuts by kvothe](https://discuss.flarum.org/d/19301-keyboard-shortcuts)
