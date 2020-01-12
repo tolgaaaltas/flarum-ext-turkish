@@ -11,3 +11,6 @@ dotronglong-hide-me:
             privacy_public_info: Kimliğiniz herkes tarafından görüntülenir.
             privacy_anonymous_label: Anonim
             privacy_anonymous_info: Kimliğiniz görüntülenemez ancak gönderiyi yine de düzenleyebilirsiniz.
+    anonymous:
+        username: "[gizli]"
+        display_name: "[gizli]"
