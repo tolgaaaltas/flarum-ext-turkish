@@ -11,7 +11,7 @@ flarum_discussion_views:
       submit: Evet tümünü sil
       label: Bu tartışmaya ait {count} görüntülenme temizlenecektir. Devam ediyor musunuz?|Bu tartışmaya ait {count} görüntülenme temizlenecektir. Devam ediyor musunuz?
     discussion_controls:
-      resetviews_button: Görüntülenme sayısını sıfırla
+      resetviews_button: Görüntülenmeyi sıfırla
   admin:
       permissions:
           reset_views_label: Tartışma görüntülenmesini sıfırla
