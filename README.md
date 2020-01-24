@@ -94,6 +94,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🤖 Flarum SEO by v17development](https://discuss.flarum.org/d/18316-flarum-seo)
 - [🚧 Closed Discussions by vestosers](https://discuss.flarum.org/d/21698-hiqstd-closed-discussion)
 - [🙄 Login2See by WiseClock](https://discuss.flarum.org/d/5168-login2see)
+- [💬 Realtime chat with Pusher by Xelson](https://discuss.flarum.org/d/5133-wip-extension-realtime-chat-with-pusher/12)
 - [📣 Announce by zerosonesfun](https://github.com/zerosonesfun/announce)
 
 ## Usage
