@@ -89,6 +89,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [📊 Level Ranks by ReFlar](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar)
 - [🔎 Google Auth by saleksin](https://discuss.flarum.org/d/18250-google-login)
 - [🏃‍♀️ Follow Users by simonxeko](https://discuss.flarum.org/d/22628-follow-users-wip)
+- [🕶 Preview Discussion by simonxeko](https://discuss.flarum.org/d/22636-preview-discussion-post-wip)
 - [🖼 FancyBox by squeevee](https://discuss.flarum.org/d/19535-fancybox-extension-beta)
 - [📔 Profile Cover by SychO9](https://github.com/SychO9/flarum-profile-cover)
 - [⚠ Perspective by tankerkiller125](https://discuss.flarum.org/d/21784-perspective-api)
