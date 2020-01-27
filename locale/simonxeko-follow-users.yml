@@ -1,5 +1,18 @@
 simonxeko-follow-users:
+
+  admin:
+    permissions:
+      can_not_be_followed_label: Takip edilemez
+      
   forum:
+  
+      profile_link: Takip Ediliyor
+    user_controls:
+      follow_button: Takip Et
+      follow_confirmation: Bu kullanıcı takip etmek istedinizden emin misiniz?
+      unfollow_button: Takibi bırak
+      unfollow_confirmation: Bu kullanıcıyı takipten çıkmak istediğinizden emin misiniz?
+  
     settings:
       notify_new_discussion_label: Takip ettiğim biri yeni bir tartışma başlattığında
       notify_new_post_label: Takip ettiğim biri yeni bir gönderi yazdığında
