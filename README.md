@@ -23,6 +23,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [💭 Vkontakte Auth by dem13n](https://github.com/Dem13n/auth-vkontakte)
 - [🔍 Yandex Auth by dem13n](https://github.com/Dem13n/auth-yandex)
 - [🤹‍♀️ Nickname Changer by dem13n](https://github.com/Dem13n/nickname-changer)
+- [⏹ Quad Theme by dem13n](https://discuss.flarum.org/d/22618-quad-theme)
 - [🔏 Hide Me by dotronglong](https://github.com/dotronglong/flarum-hide-me)
 - [🛒 Bazaar by Extiverse](https://github.com/extiverse/bazaar)
 - [📥 Contact Button by Fajuu](https://discuss.flarum.org/d/18228-contact-button)
