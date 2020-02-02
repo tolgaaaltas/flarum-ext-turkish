@@ -12,7 +12,15 @@ pushedx-chat:
       placeholder: Mesajınızı yazın...
     errors:
       unauthenticated: Yalnızca kayıtlı kullanıcılar sohbet edebilir
+      chatdenied: Bulunduğunuz kullanıcı grubunun sohbete yazma izni bulunmuyor
   admin:
+    permissions:
+      post: Sohbete mesaj gönder
+      edit: Sohbet mesajını düzenle
+      delete: Sohbet mesajını sil
+      moderate:
+        delete: Sohbet mesajını sil
+
     settings:
       title: Sohbet Ayarları
       charlimit: Mesajda kullanılabilecek maksimum karakter sayısı
