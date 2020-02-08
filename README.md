@@ -94,6 +94,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🖼 FancyBox by squeevee](https://discuss.flarum.org/d/19535-fancybox-extension-beta)
 - [📔 Profile Cover by SychO9](https://github.com/SychO9/flarum-profile-cover)
 - [⚠ Perspective by tankerkiller125](https://discuss.flarum.org/d/21784-perspective-api)
+- [🗝 Show Password by therealsujitk](https://discuss.flarum.org/d/22727-show-password)
 - [🤖 Flarum SEO by v17development](https://discuss.flarum.org/d/18316-flarum-seo)
 - [🚧 Closed Discussions by vestosers](https://discuss.flarum.org/d/21698-hiqstd-closed-discussion)
 - [🙄 Login2See by WiseClock](https://discuss.flarum.org/d/5168-login2see)
