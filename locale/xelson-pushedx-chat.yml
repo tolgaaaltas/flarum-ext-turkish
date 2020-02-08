@@ -10,6 +10,9 @@ pushedx-chat:
       maximize: Büyült
     chat:
       placeholder: Mesajınızı yazın...
+        actions:
+          hide: Gizle
+          resend: Yeniden Gönder
     errors:
       unauthenticated: Yalnızca kayıtlı kullanıcılar sohbet edebilir
       chatdenied: Bulunduğunuz kullanıcı grubunun sohbete yazma izni bulunmuyor
@@ -24,3 +27,7 @@ pushedx-chat:
     settings:
       title: Sohbet Ayarları
       charlimit: Mesajda kullanılabilecek maksimum karakter sayısı
+      floodgate:
+        title: Flood Karşıtı
+        number: Arka arkaya mesaj sayısı
+        time: Süre sınırı
