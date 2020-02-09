@@ -71,7 +71,6 @@ fof-upload:
       aws-s3: Amazon S3
       imgur: Imgur
       local: Yerel
-      ovh-svfs: OVH SVFS
       qiniu: QiNiu
   forum:
     buttons:
