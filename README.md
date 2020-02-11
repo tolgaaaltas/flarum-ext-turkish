@@ -12,6 +12,8 @@ composer require tolgaaaltas/flarum-ext-turkish
 
 - [🌊 Syndication extension (RSS & Atom feeds) by AmauryPi](https://discuss.flarum.org/d/4395-syndication-extension-rss-atom-feeds)
 - [🤑 Money by antoinefr](https://discuss.flarum.org/d/4699-money-extension)
+- [🔄 Flarum Auth Sync by askvortsov](https://discuss.flarum.org/d/22759-flarum-auth-sync)
+- [🔀 Flarum SAML2 Single Sign On by askvortsov](https://discuss.flarum.org/d/22757-flarum-saml)
 - [🤹‍♂️ Author Change by clarkwinkelmann](https://discuss.flarum.org/d/21731-discussion-and-post-author-change)
 - [👤 Create User Modal by clarkwinkelmann](https://discuss.flarum.org/d/22608-create-user-modal)
 - [💌 Email as Display Name by clarkwinkelmann](https://discuss.flarum.org/d/22603-email-as-display-name)
