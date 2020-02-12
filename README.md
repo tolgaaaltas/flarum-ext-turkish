@@ -87,6 +87,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [👨‍💼 LinkedIn Auth by nomiscz](https://discuss.flarum.org/d/20263-linkedin-auth)
 - [👀 Reply2See by oakling](https://discuss.flarum.org/d/18899-reply-2-see)
 - [🎲 Steam Auth by omiscz](https://discuss.flarum.org/d/19750-steam-auth)
+- [🗨️ WeChat Auth by nomiscz](https://github.com/NomisCZ/flarum-ext-auth-wechat) 
 - [🍪 Cookie Consent by ReFlar](https://discuss.flarum.org/d/10395-cookie-consent)
 - [🚪 Doorman by ReFlar](https://discuss.flarum.org/d/17845-doorman-by-reflar)
 - [📊 Level Ranks by ReFlar](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar)
