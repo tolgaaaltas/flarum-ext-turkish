@@ -5,11 +5,11 @@ fof-filter:
     admin:
         title: Filtre
         help: Girilen terimler virgül ve boşlukla ayrılmalıdır.
-        help2: Peşpeşe atılan gönderilerin birleştirilmesi dakika cinsinden belirlenmelidir
+        help2: Peş peşe atılan gönderilerin birleştirilmesi dakika cinsinden belirlenmelidir
         email_help: İşaretlenmiş e-posta içeriği. HTML ve düz metin geçerlidir.
         filter_label: Filtrelenecek kelimeler
         countLabel: Sansür Toleransı
-        cooldownLabel: Peşpeşe birleştirme süresi
+        cooldownLabel: Peş peşe birleştirme süresi
         input:
             placeholder: Filtrelenecek kelimeler
             filter_title: Kelime Filtreleme
