@@ -40,6 +40,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [👨‍💻 Byobu by FriendsOfFlarum](https://discuss.flarum.org/d/4762-friendsofflarum-by-bu-well-integrated-advanced-private-discussions)
 - [💾 Drafts by FriendsOfFlarum](https://discuss.flarum.org/d/20957-friendsofflarum-drafts)
 - [📧 Disposable Emails by FriendsOfFlarum](https://discuss.flarum.org/d/20457-friendsofflarum-disposable-emails)
+- [⚖ Filter by FriendsOfFlarum](https://discuss.flarum.org/d/5131-friendsofflarum-filter) 
 - [🏷 Follow Tags by FriendsOfFlarum](https://discuss.flarum.org/d/20525-friendsofflarum-follow-tags)
 - [📝 Custom Footer by FriendsOfFlarum](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer)
 - [📽 Formatting by FriendsOfFlarum](https://discuss.flarum.org/d/17770-friendsofflarum-formatting)
