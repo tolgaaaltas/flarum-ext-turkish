@@ -13,7 +13,7 @@ fof-byobu:
             submit_button: Özel Tartışmayı Başlat
             title_placeholder: Özel Tartışma Başlığı
         labels:
-            recipients: "{count} Alıcı|{count} Alıcılar"
+            recipients: "{count} Alıcı|{count} Alıcı"
             user_deleted: -silinmiş-
         nav:
             private_discussions: Özel tartışma
