@@ -58,7 +58,7 @@ fof-byobu:
             view_private_discussions-when-flagged: Kullanıcıların bildirdiği özel tarışmaları görüntüle
             
         settings:
-            byobu_users_page_label: Kullanıcı sayfasına özel tartışma butonu ekle
+            nothing_here: Burada henüz görüntülenecek bir şey yok
 
     notifications:
         private_discussion_created:
