@@ -19,6 +19,8 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [💌 Email as Display Name by clarkwinkelmann](https://discuss.flarum.org/d/22603-email-as-display-name)
 - [🔏 Passwordless Login by clarkwinkelmann](https://discuss.flarum.org/d/22606-passwordless-login)
 - [⏲ Change post date by clarkwinkelmann](https://discuss.flarum.org/d/21247-change-post-date)
+- [1️⃣ See Past First Post by clarkwinkelmann](https://github.com/clarkwinkelmann/flarum-ext-see-past-first-post)
+- [📨 Silent MailChimp by clarkwinkelmann](https://flagrow.io/extensions/clarkwinkelmann/flarum-ext-silent-mailchimp)
 - [😆 Status by clarkwinkelmann](https://discuss.flarum.org/d/21983-user-status)
 - [📮 Mail.ru Auth by dem13n](https://github.com/Dem13n/auth-mailru)
 - [🧍‍ Ok.ru Auth by dem13n](https://github.com/Dem13n/auth-odnoklassniki)
