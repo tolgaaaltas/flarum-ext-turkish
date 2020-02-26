@@ -25,4 +25,4 @@ fof-best-answer:
       awarded_email: Gönderiniz kullanıcı tarafından en iyi yanıt olarak seçti
       select_email_title: Sorununuzu çözmeyi başardınız mı?
       preferences:
-        awarde_best_answer: Birisi gönderimi en iyi yanıt olarak seçtiğinde
+        awarded_best_answer: Birisi gönderimi en iyi yanıt olarak seçtiğinde
