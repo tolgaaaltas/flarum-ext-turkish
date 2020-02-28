@@ -55,6 +55,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🔗 Links by FriendsOfFlarum](https://discuss.flarum.org/d/18335-friendsofflarum-links)
 - [👓 Masquerade by FriendsOfFlarum](https://discuss.flarum.org/d/5791-masquerade-by-friendsofflarum-the-user-profile-builder)
 - [🤝 Merge Discussions by FriendsOfFlarum](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions)
+- [🗒 Moderator Notes by FriendsOfFlarum](https://discuss.flarum.org/d/22925-friendsofflarum-moderator-notes)
 - [🌃 Night Mode by FriendsOfFlarum](https://discuss.flarum.org/d/21492-friendsofflarum-night-mode)
 - [📃 Pages by FriendsOfFlarum](https://discuss.flarum.org/d/18301-friendsofflarum-pages)
 - [🗳 Polls by FriendsOfFlarum](https://discuss.flarum.org/d/20586-friendsofflarum-polls)
