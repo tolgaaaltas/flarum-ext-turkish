@@ -17,6 +17,7 @@ composer require tolgaaaltas/flarum-ext-turkish
 - [🤹‍♂️ Author Change by clarkwinkelmann](https://discuss.flarum.org/d/21731-discussion-and-post-author-change)
 - [👤 Create User Modal by clarkwinkelmann](https://discuss.flarum.org/d/22608-create-user-modal)
 - [💌 Email as Display Name by clarkwinkelmann](https://discuss.flarum.org/d/22603-email-as-display-name)
+- [😀 Emoji Picker by clarkwinkelmann](https://discuss.flarum.org/d/4787-emoji-picker)
 - [🔏 Passwordless Login by clarkwinkelmann](https://discuss.flarum.org/d/22606-passwordless-login)
 - [⏲ Change post date by clarkwinkelmann](https://discuss.flarum.org/d/21247-change-post-date)
 - [1️⃣ See Past First Post by clarkwinkelmann](https://github.com/clarkwinkelmann/flarum-ext-see-past-first-post)
