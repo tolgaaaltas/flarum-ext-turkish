@@ -19,5 +19,5 @@ clarkwinkelmann-who-read:
             show-in-hero: Okuyanları tartışma başlığı kısmında göster
             show-between-posts: Gönderilerde okunma durumunu göster
             hide-when-behind: Çok fazla gönderiyi okumadıysa kullanıcıyı gizle
-            max-visible: "Daha fazla" butonuna tıklanmadan önce gösterilecek kullanıcı sayısı
+            max-visible: Daha fazla butonuna tıklanmadan önce gösterilecek kullanıcı sayısı
             only-groups: Yalnızca bu gruplardaki kullanıcıların okundu durumunu göster
