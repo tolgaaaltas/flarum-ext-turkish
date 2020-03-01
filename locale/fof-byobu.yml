@@ -58,7 +58,8 @@ fof-byobu:
             view_private_discussions-when-flagged: Kullanıcıların bildirdiği özel tarışmaları görüntüle
             
         settings:
-            nothing_here: Burada henüz görüntülenecek bir şey yok
+            use_tag_slug: Özel tartışmaların başlatılacağı etiketi seçin
+            use_tag_slug_help: Özel tartışmaları belirli bir etikette açılmasını zorlamak istemiyorsanız bu alanı boş bırakın, yalnızca yeni başlatılan özel tartışmalar için geçerlidir
 
     notifications:
         private_discussion_created:
