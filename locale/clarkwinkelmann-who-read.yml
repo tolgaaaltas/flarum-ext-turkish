@@ -8,11 +8,19 @@ clarkwinkelmann-who-read:
         stats:
             to_end: "{count} kullanıcı sonuna kadar okudu"
             to_at_least_here: "{count} kullanıcı en son buraya kadar okudu"
+        controls:
+            set-unread: Okunmadı olarak işaretle
+            remove-unread: Okundu olarak işaretle
+        badges:
+            unread: Okunmadı olarak işaretledi
 
     admin:
         permissions:
+            heading: Kim okudu
             see-read: Okuma durumunu göster
             see-subscription: Abonelik durumunu göster
+            see-unread: Okunmadı olarak işaretleyenleri göster
+            mark-unread: Okunmadı olarak işaretlemelerine izin ver
         settings:
             title: Kim okudu ayarları
             show-in-discussion-list: Okuyanları tartışmada göster
