@@ -1,44 +1,44 @@
-clarkwinkelmann-who-read:
-    forum:
-        tooltip:
-            last_read_at: "{username}, {ago} okudu"
-            last_read_at_behind: "{username} en son {ago} okudu"
-            last_read_at_up_to_date: "{username} son gönderiyi {ago} okudu"
-        more:
-            show: {count} daha göster
-            info: ve {count} daha
-        footer:
-            to-here-some-stopped: "{total} kullanıcı bu gönderiyi okudu. {stopped} kullanıcı sonuna okumadı."
-            to-here-none-stopped: "{total} kullanıcı bu gönderiyi okudu. Herkes sonuna kadar okudu."
-            to-here-nobody: "Kimse bu gönderiyi okumadı"
-            to-end: "{total} kullanıcı sonuna kadar okudu"
-            to-end-nobody: "Kimse sonuna kadar okumadı"
-        controls:
-            set-unread: Okunmadı olarak işaretle
-            remove-unread: Okundu olarak işaretle
-        badges:
-            unread: Okunmadı olarak işaretledi
-        modal:
-            title: Okuyanlar
-            up-to-this-post: Okuyan kullanıcılar
-            past-this-post: Okumuş kullanıcılar
-            to-the-end: Sonuna kadar okuyan kullanıcılar
-            behind: Sonuna kadar okumayan kullanıcılar
-
-    admin:
-        permissions:
-            heading: Kim okudu
-            see-read: Okuma durumunu göster
-            see-subscription: Abonelik durumunu göster
-            see-unread: Okunmadı olarak işaretleyenleri göster
-            mark-unread: Okunmadı olarak işaretlemelerine izin ver
-        settings:
-            title: Kim okudu ayarları
-            show-in-discussion-list: Okuyanları tartışmada göster
-            show-in-hero: Okuyanları tartışma başlığı kısmında göster
-            show-between-posts: Gönderilerde okunma durumunu göster
-            show-count-of-readers-who-stopped: Gönderiler arasında toplam okunma sayısı yerine okumayı bırakan kullanıcı sayısını göster
-            hide-when-behind: Çok fazla gönderiyi okumadıysa kullanıcıyı gizle
-            max-visible: Daha fazla butonuna tıklanmadan önce gösterilecek kullanıcı sayısı
-            unread-icon: Okumamışlar için rozet
-            only-groups: Yalnızca bu gruplardaki kullanıcıların okundu durumunu göster
+--- 
+clarkwinkelmann-who-read: 
+  admin: 
+    permissions: 
+      heading: "Kim okudu"
+      mark-unread: "Okunmadı olarak işaretlemelerine izin ver"
+      see-read: "Okuma durumunu göster"
+      see-subscription: "Abonelik durumunu göster"
+      see-unread: "Okunmadı olarak işaretleyenleri göster"
+    settings: 
+      hide-when-behind: "Çok fazla gönderiyi okumadıysa kullanıcıyı gizle"
+      max-visible: "Daha fazla butonuna tıklanmadan önce gösterilecek kullanıcı sayısı"
+      only-groups: "Yalnızca bu gruplardaki kullanıcıların okundu durumunu göster"
+      show-between-posts: "Gönderilerde okunma durumunu göster"
+      show-count-of-readers-who-stopped: "Gönderiler arasında toplam okunma sayısı yerine okumayı bırakan kullanıcı sayısını göster"
+      show-in-discussion-list: "Okuyanları tartışmada göster"
+      show-in-hero: "Okuyanları tartışma başlığı kısmında göster"
+      title: "Kim okudu ayarları"
+      unread-icon: "Okumamışlar için rozet"
+  forum: 
+    badges: 
+      unread: "Okunmadı olarak işaretledi"
+    controls: 
+      remove-unread: "Okundu olarak işaretle"
+      set-unread: "Okunmadı olarak işaretle"
+    footer: 
+      to-end: "{total} kullanıcı sonuna kadar okudu"
+      to-end-nobody: "Kimse sonuna kadar okumadı"
+      to-here-nobody: "Kimse bu gönderiyi okumadı"
+      to-here-none-stopped: "{total} kullanıcı bu gönderiyi okudu. Herkes sonuna kadar okudu."
+      to-here-some-stopped: "{total} kullanıcı bu gönderiyi okudu. {stopped} kullanıcı sonuna okumadı."
+    modal: 
+      behind: "Sonuna kadar okumayan kullanıcılar"
+      past-this-post: "Okumuş kullanıcılar"
+      title: Okuyanlar
+      to-the-end: "Sonuna kadar okuyan kullanıcılar"
+      up-to-this-post: "Okuyan kullanıcılar"
+    more: 
+      info: "ve {count} daha"
+      show: "{count} daha göster"
+    tooltip: 
+      last_read_at: "{username}, {ago} okudu"
+      last_read_at_behind: "{username} en son {ago} okudu"
+      last_read_at_up_to_date: "{username} son gönderiyi {ago} okudu"
