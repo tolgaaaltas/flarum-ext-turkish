@@ -38,6 +38,6 @@ clarkwinkelmann-who-read:
       info: "ve {count} daha"
       show: "{count} daha göster"
     tooltip: 
-      last_read_at: "{username}, {ago} okudu"
-      last_read_at_behind: "{username} en son {ago} okudu"
-      last_read_at_up_to_date: "{username} son gönderiyi {ago} okudu"
+      last-read-at: "{username}, {ago} okudu"
+      last-read-at-behind: "{username} en son {ago} okudu"
+      last-read-at-up-to-date: "{username} son gönderiyi {ago} okudu"
