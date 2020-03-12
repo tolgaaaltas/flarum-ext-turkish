@@ -31,10 +31,10 @@
 		"flarum-extension": {
 			"title": "Turkish Extensions Experience Pack",
 			"icon": {
-				"image": "extension.svg",
-				"backgroundColor": "#ffffff",
-				"backgroundSize": "cover",
-				"backgroundPosition": "center",
+			"image": "extension.svg",
+			"backgroundColor": "#ffffff",
+			"backgroundSize": "cover",
+			"backgroundPosition": "center",
 			}
 		},
 		"flagrow": {
