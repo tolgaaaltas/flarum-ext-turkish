@@ -31,11 +31,10 @@
 		"flarum-extension": {
 			"title": "Turkish Extensions Experience Pack",
 			"icon": {
-				"name": "fas fa-language",
-				"background": "#ff3838",
+				"image": "extension.svg",
+				"backgroundColor": "#ffffff",
 				"backgroundSize": "cover",
 				"backgroundPosition": "center",
-				"color": "#f5f5f5"
 			}
 		},
 		"flagrow": {
