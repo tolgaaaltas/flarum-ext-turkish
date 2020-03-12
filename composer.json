@@ -34,7 +34,7 @@
 			"image": "extension.svg",
 			"backgroundColor": "#ffffff",
 			"backgroundSize": "cover",
-			"backgroundPosition": "center",
+			"backgroundPosition": "center"
 			}
 		},
 		"flagrow": {
