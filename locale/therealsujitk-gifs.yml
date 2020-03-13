@@ -4,6 +4,7 @@ therealsujitk:
       label: 'GIF ekle'
       title: 'GIF seç'
       searchbar: 'GIF ara'
+      search: 'Ara'
       loading: 'Yükleniyor...'
       noresults: 'Sonuç yok'
   admin:
