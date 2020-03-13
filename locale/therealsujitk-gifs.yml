@@ -3,7 +3,7 @@ therealsujitk:
     gifs:
       label: 'GIF ekle'
       title: 'GIF seç'
-      searchGiphy: 'Giphy ile ara'
+      searchbar: 'Giphy ile ara'
   admin:
     gifs:
       title: 'GIF API Ayarları'
