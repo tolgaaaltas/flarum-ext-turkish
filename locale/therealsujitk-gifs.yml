@@ -1,0 +1,10 @@
+therealsujitk:
+  forum:
+    gifs:
+      label: 'GIF ekle'
+      title: 'GIF seç'
+      searchGiphy: 'Giphy ile ara'
+  admin:
+    gifs:
+      title: 'GIF API Ayarları'
+      giphyAPIkey: 'Giphy API Key'
