@@ -6,9 +6,12 @@ therealsujitk:
       searchbar: 'GIF ara'
       search: 'Ara'
       loading: 'Yükleniyor...'
-      noresults: 'Sonuç yok'
+      noresults: 'Sonuç Yok'
       loadmore: 'Daha Fazla'
   admin:
     gifs:
       title: 'GIF API Ayarları'
       giphyAPIkey: 'Giphy API Key'
+    about:
+      stringA: 'Uzantı geliştiricisi: '
+      stringB: 'Bana bağış yapın '
