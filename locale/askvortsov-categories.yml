@@ -4,6 +4,7 @@ askvortsov-categories:
       categories_label: Kategoriler
     labels:
       keep_tags_nav: Etiketler bağlantısını menüden kaldırma
+      full_page_desktop: Yan menü tek satıra indirgensin mi (etiketler sayfasındaki gibi)? Aynı zamanda menüyü genişleten uzantıları da gizler (örn. Forum Statistics by FriendsOfFlarum).
       parent_remove_icon: Ana kategorilerde etiketlere ait ikonları gösterme
       parent_remove_description: Ana kategorilerde tartışmaları gösterme
       parent_remove_stats: Ana kategorilerde etiketlere ait istatistikleri gösterme
