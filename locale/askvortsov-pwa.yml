@@ -2,7 +2,7 @@ askvortsov-pwa:
   admin:
     nav:
       pwa_button: İleri Web Uygulaması
-      pwa_text: Flarum'u mobil cihazlara yüklenebilen İleri Web Uygulamaası olarak yapılandırın.
+      pwa_text: Flarum'u mobil cihazlara yüklenebilen İleri Web Uygulaması olarak yapılandırın.
     pwa:
       enable_label: Etkinleştir
       about:
