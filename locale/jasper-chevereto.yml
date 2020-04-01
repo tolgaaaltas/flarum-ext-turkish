@@ -5,7 +5,7 @@ jasper-chevereto:
         setting:
             title: Chevereto Yükleme Ayarları
             src: Chevereto'nun açılır pencere yükleme uzantısı (pup.js) kaynak bağlantısı
-            url: Chevereto web sitesinin URL'si
+            url: Chevereto web sitesinin bağlantısı
             auto-insert: Kodları gönderi alanına otomatik olarak ekle
             lang: Dil
         buttons:
