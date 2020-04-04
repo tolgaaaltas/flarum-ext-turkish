@@ -26,7 +26,7 @@ askvortsov-pwa:
       submit_button: Ayarları Kaydet
       refreshed_message: PWA config refreshed successfully.
     status:
-      disabled: You must enable Progressive Web Apps.
+      disabled: İleri Web Uygulamasını aktifleştirmelisiniz.
       config_no_https: The url in your config.php file isn't using HTTPS. HTTPS is required for Progressive Web Apps to work.
       possible_https_disabled: Your site might not be running on HTTPS. If it is, ignore this. If it isn't keep in mind that HTTPS is required for Progressive Web Apps to work.
       no_logo: You must upload at least one logo for your app to work.
@@ -35,4 +35,4 @@ askvortsov-pwa:
       manifest_not_accessible: The Web Manifest file is not accessible. It should be at https://YOUR_FLARUM_SITE_URL/webmanifest.json. If it not there, please review your web server's configuration. If not, you can ignore this message.
       sw_does_not_exist: The Service Worker file does not exist. Try saving settings to refresh configuration.
       sw_not_accessible: The service worker file is not accessible. It should be at https://YOUR_FLARUM_SITE_URL/sw.js. If it not there, please review your web server's configuration. If not, you can ignore this message.
-      success: No Potential Issues Found!
+      success: Potansiyel hata mevcut değil!
