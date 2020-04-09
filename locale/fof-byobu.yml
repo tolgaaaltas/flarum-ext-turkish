@@ -45,8 +45,8 @@ fof-byobu:
             dropdown_label: Özel Tartışmalar
             
         notifications:
-            pd_label: Birisi beni özel tartışmaya dahil etti
-            pd_reply_label: Birisi alıcısı olduğum özel tartışmaya yeni bir gönderi yazdı
+            pd_label: Birisi beni özel tartışmaya dahil ettiğinde
+            pd_reply_label: Birisi alıcısı olduğum özel tartışmaya yeni bir gönderi yazdığında
             pd_reply_text: "{username}, alıcısı olduğunuz özel tartışmaya yeni bir gönderi yazdı"
             pd_text: "{username} seninle yeni bir özel tartışma başlattı"
             pd_user_left_label: Bir kullanıcı parçası olduğunuz özel tartışmadan ayrıldığında
