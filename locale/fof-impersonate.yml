@@ -1,4 +1,4 @@
-flagrow-impersonate:
+fof-impersonate:
     admin:
         permissions:
             login: Bu kullanıcı olarak giriş yap
