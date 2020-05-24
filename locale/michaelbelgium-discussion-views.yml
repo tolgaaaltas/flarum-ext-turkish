@@ -4,7 +4,7 @@ core:
       popular_button: Görüntülenen
       unpopular_button: Görüntülenmeyen
 
-flarum_discussion_views:
+michaelbelgium-discussion-views:
   forum:
     modal_resetviews:
       title: Tartışmaların görüntülenmesini sıfırla
