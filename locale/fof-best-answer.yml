@@ -18,6 +18,8 @@ fof-best-answer:
     remove_best_answer: "Mevcut en iyi yanıtı kaldır"
     best_answer_button: En İyi Yanıt
     best_answer_label: <a>{username}</a> tarafından
+    errors:
+      mismatch: "Seçilen gönderi bu tartışmada mevcut değil"
 
     notification:
       best_answer_in_discussion: "{username} bu tartışmada en iyi yanıtı verdi"
