@@ -6,6 +6,7 @@ fof-drafts:
     composer:
       title: Taslağı Kaydet
       alert: Taslak kaydedildi.
+      saved: Kaydedildi!
       exit_alert: Taslaktaki değişiklikler silinsin mi?
     dropdown:
       empty_text: Herhangi bir taslak kaydetmediniz
