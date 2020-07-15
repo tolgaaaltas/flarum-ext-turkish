@@ -23,7 +23,7 @@ askvortsov-moderator-warnings:
       delete_forever_button: Kalıcı Olarak Sil
     warning_list:
       add_button: Yeni Uyarı
-      no-warnings: Burada hiç uyarı yok gibi görünüyor.
+      no_warnings: Burada hiç uyarı yok gibi görünüyor.
       warnings: "Moderatör Uyarıları: {strikes} uyarı aldın!"
       warnings_no_strikes: "Moderatör Uyarıları: Hiçbir uyarı yok!"
     warning_list_item:
