@@ -1,6 +1,6 @@
 jslirola-login2seeplus:
   forum:
-    post: "Yanıtın tamamını görmek için {giriş} veya {kayıt} yapmanız gerekiyor"
+    post: "Gönderinin tamamını görmek için {login} veya {register} yapmanız gerekiyor"
     link: Bağlantıyı görmek için giriş yapın
     image: Resimi görmek için giriş yapın
     code: Kodu görmek isim giriş yapın
