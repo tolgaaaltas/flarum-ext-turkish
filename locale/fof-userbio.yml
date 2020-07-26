@@ -2,7 +2,7 @@ fof-user-bio:
     admin:
         permission:
             view: Biyografiyi görüntüle
-            editOwn: Kendi biyografisini düzenle
+            editOwn: Kendi biyografimi düzenle
             editAny: Herhangi bir biyografiyi düzenle
 
     forum:
