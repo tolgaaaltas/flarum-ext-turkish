@@ -24,7 +24,7 @@ askvortsov-moderator-warnings:
     warning_list:
       add_button: Yeni Uyarı
       no_warnings: Burada hiç uyarı yok gibi görünüyor.
-      warnings: "Moderatör Uyarıları: {strikes} uyarı"
+      warnings: "Moderatör Uyarıları: {strikes} uyarı aldın!"
       warnings_no_strikes: "Moderatör Uyarıları: Hiçbir Uyarı Alınmadı"
     warning_list_item:
       list_item_heading: <strong>{mod_username}</strong> adlı moderatör <strong>{strikes}</strong> kez uyardı
