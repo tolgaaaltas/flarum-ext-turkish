@@ -25,11 +25,11 @@
 			"dev-master": "0.1.x-dev"
 		},
 		"authors": [{
-			"name": "tolgaaaltas",
+			"name": "tolgaaaltas (Forked by northeaster)",
 			"role": "Developer"
 		}],
 		"flarum-extension": {
-			"title": "Turkish Extensions Experience Pack",
+			"title": "Turkish Extensions Experience Pack (Forked)",
 			"icon": {
 			"image": "extension.svg",
 			"backgroundColor": "#ffffff",
