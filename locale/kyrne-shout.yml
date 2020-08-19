@@ -1,29 +1,46 @@
 kyrne-shout:
+  admin:
+    settings:
+      title: Özel Mesajlaşmayı Ayarla
+      set_own_password: "Kullanıcıların kendi parolalarını oluşturmalarına izin verin - SSO Uyumluluğu"
+    permissions:
+      start_label: Özel mesajlaşma başlatın
   forum:
     dropdown:
       tooltip: Sohbetler
-    setup:
+    setup:	
       title: Özel Mesajlaşmayı Ayarla
       header_setup: Özel mesajlaşmayı ayarlamak için kullanıcı adı ve şifrenizi girin.
       header_import: Özel mesajlarınızı içe aktarmak için kullanıcı adınızı ve şifrenizi girin.
+      header_set_own: Özel mesajları ayarlamak için bir şifre girin.
+      header_set_own_import: İçeri aktarmak için özel mesaj şifrenizi girin.
+      passwords_mismatch: Şifreler eşleşmedi
+      invalid_password: Şifreniz yanlış.
       button_import: İçe Aktar
       button_setup: Ayarla
-      success: Özel mesajlaşma sistemi ayarlandı, sayfa yeniden yüklenecek...
+      confirm_password: Şifreyi Onayla
+      success: Özel mesajlaşma artık hazır, sayfanız şimdi yeniden yüklenecek ...
     modal:
-      title: Sohbet Başlat
-      help: Sohbete başlamak için bir kullanıcı adı yazın.
+      title: Özel Mesajlaşmayı Başlatın
+      help: Sohbet başlatmak için bir kullanıcı adı yazmaya başlayın.
+      help_start: "İlk mesajınızı yazın. Bu, {username} yanıt verene kadar gönderebileceğiniz tek mesaj olacaktır. Farklı bir alıcı seçmek için kullanıcıyı tıklayın."
       search_recipients: Kullanıcı adı girin...
-      submit: Gönder & Sohbet Başlat
+      submit: Özel Mesajlaşmayı Başlat & Gönder
       copied: Mesajınız panoya kopyalandı.
-      already: "{username} kullanıcısı ile zaten bir sohbetiniz mevcut."
-    user_modal_alert: "{username} özel mesajlaşmayı ayarlamış, şifreleri güvenli bir şekilde değiştirilemez."
+      more_users: Aradığınız kullanıcıyı görmüyorsanız, özel mesajlaşma kurulumuna sahip değillerdir.
+      already: "{username} ile zaten bir görüşmeniz var."
+    user_modal_alert: "{username} özel mesajlaşma ayarına sahip, şifreleri güvenli bir şekilde değiştirilemez."
     chat:
-      chat_with: "{username} ile sohbet"
+      chat_with: "{username} ile sohbet et"
       messages_multiple: "{count} toplam mesaj"
       messages_single: Yeni sohbet
-      start: Sohbet Başlat
-      text_placeholder: Mesajınızı yazın
-      send: Mesaj Gönder
-      cant_send: "{username} yanıt verene kadar yeni bir mesaj gönderemezsiniz (yalnızca ilk mesaj için geçerli)"
-      failed_to_decrypt: "[Şifre çözülürken hata oluştu]"
-      start_of_conversation: Sohbet Başlangıcı
+      start: Yeni sohbet
+      cant_start: Sohbet başlatılamıyor
+      text_placeholder: Mesajını yaz
+      send: Mesaj gönder
+      recovery_message: "Sistem mesajı: Şifreleme senkronizasyonu kayboldu ve kurtarıldı"
+      failed_message: "Mesajın şifresi çözülemedi, kurtarma yöntemi #{method} deneniyor"
+      cant_send: "{username} yanıt verene kadar mesaj gönderemezsiniz (first message only)"
+      cant_send_toomany: "Lütfen daha fazla mesaj göndermeden önce {username} adlı kullanıcının yanıtını bekleyin"
+      failed_to_decrypt: "[Failed to decrypt]"
+      start_of_conversation: Sohbetin başlangıcı
