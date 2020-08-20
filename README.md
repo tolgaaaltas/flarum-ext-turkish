@@ -4,7 +4,7 @@ Translates Flarum extensions to Turkish
 
 ## Installation
 
-```bash
+```
 composer require northeaster/flarum-ext-turkish
 ```
 
