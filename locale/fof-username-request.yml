@@ -13,7 +13,7 @@ fof-username-request:
       approval_label: Onayla
       decision_title: Karar
       help_text: 'Lütfen istediğiniz kullanıcı adı değişikliğinin forum kurallarına uygun olduğundan emin olun.'
-      name: '{username} adlı kullanıcı adı "{newUsername}" olarak değiştirildi.'
+      name: '{username} adlı kullanıcı adı "{newUsername}" olarak değiştirmek istiyor'
       reason_title: 'Reddedilme Nedeni'
       rejected_label: Reddet
       submit_button: Gönder
@@ -35,9 +35,9 @@ fof-username-request:
       submit_button: 'İstek Gönderin'
       title: 'Kullanıcı Adı Değişikliği İste'
     results:
-      approved: 'Kullanıcı adı değiştirme isteğiniz onaylandı!'
+      approved: 'Kullanıcı adı değiştirme isteğiniz onaylandı'
       new_username: 'Kullanıcı adınız "{username}" olarak değiştirildi'
-      reason: 'Reddedilme gerekçesi: <i>"{reason}"</i>'
+      reason: 'Reddedilme gerekçesi: <i>"{reason}"</i>.'
       rejected: 'Kullanıcı adı değiştirme isteğiniz reddedildi'
       resubmit: 'Dilerseniz hesap ayarlarınızdan yeniden kullanıcı adı değişikliği isteği oluşturabilirsiniz.'
       title: 'Kullanıcı Adı Değişikliği İsteği'
