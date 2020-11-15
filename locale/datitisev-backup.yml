@@ -56,6 +56,9 @@ datitisev-backup:
         host:
           description: 'FTP ile bağlanılacak ana bilgisayar adı, örneğin: <em> ftp.yourdomain.local </em>.'
           label: 'Uzak ana bilgisayar adı'
+        passive:
+          description: 'Sunucuya pasif bir FTP bağlantısı kullanılıp kullanılmayacağı.'
+          toggle: 'Pasif bağlantı'
         password:
           description: 'FTP sunucusunda kimlik doğrulaması yapılacak kullanıcı şifresi.'
           label: Şifre
@@ -66,7 +69,14 @@ datitisev-backup:
           description: 'FTP bağlantısının kimlik doğrulamasında kullanılacak özel bir anahtarın yolu (tercih: absolute).'
           label: 'Private Key'
         root:
+          description: 'Yedeklerin depolanacağı uzak root yolu (alt dizin).'
           label: 'Root yolu'
+        ssl:
+          description: 'Sunucuya şifrelenmiş bir SSL bağlantısı kullanılıp kullanılmayacağı.'
+          toggle: SSL
+        timeout:
+          description: 'FTP sunucusuyla bir bağlantı için beklenecek saniye sayısı.'
+          label: 'Zaman aşımı'
         username:
           description: 'FTP sunucusunda kimlik doğrulaması yapılacak kullanıcı adı.'
           label: 'Kullanıcı adı'
@@ -103,6 +113,9 @@ datitisev-backup:
       sftp: SFTP
       webdav: Webdav
       zip: 'Zip Arşivi'
+    nav:
+      description: 'Forumunuzun kopyalarını saklayın.'
+      label: Yedekleme
     required-package-modal:
       content: 'Bu seçeneği kullanmak için belirli bir paket yüklemeniz gerekir. Aşağıdaki composer komutunu çalıştırarak bunu yapabilirsiniz. Flarum kurulum dizininizde: <code> composer require {package} </code>.'
       title: '{adapter} için bir paket gerekli'

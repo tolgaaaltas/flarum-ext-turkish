@@ -23,7 +23,7 @@ amaurycarrade-syndication:
       tag_new_discussions: '{tag} etiketindeki tartışmalar'
     feeds:
       titles:
-        discussion_subtitle: 'Bu konudaki son yazılar'
+        discussion_subtitle: 'Bu tartışmadaki son yazılar'
         discussion_title: '{discussion_name}'
         main_d_subtitle: 'Forumdaki en yeni tartışmalar'
         main_d_title: '{forum_name} için yeni tartışmalar'
