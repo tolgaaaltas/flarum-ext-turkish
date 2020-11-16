@@ -31,7 +31,7 @@ datitisev-backup:
             label: Anahtar
           secret:
             description: 'AWS credentials secret'
-            label: Secret
+            label: Gizli
         path-prefix:
           description: 'Dosyalar için isteğe bağlı varsayılan yol öneki.'
           label: 'Yol öneki'
