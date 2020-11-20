@@ -3,18 +3,23 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 clarkwinkelmann-author-change:
-  admin:
-    permissions:
-      edit: 'Tartışma ve gönderi yazarını değiştirme'
-  forum:
-    controls:
-      edit: 'Yazarı Düzenle'
-    modal:
-      cancel: İptal
-      submit: Kaydet
-      title-discussion: 'Tartışma Yazarını Düzenle'
-      title-post: 'Gönderi Yazarını Düzenle'
-    search:
-      no-results: 'Sonuç yok'
-      placeholder: 'Kullanıcılarda ara'
-      type-more: 'Veritabanında aramak için en az 3 karakter yazın'
+    forum:
+        controls:
+            edit: 'Yazarı ve Tarihi Düzenle'
+        modal:
+            title-post: 'Gönderinin Yazarını ve Tarihini Düzenle'
+            title-discussion: 'Tartışmanın Yazarını ve Tarihini Düzenle'
+            user: 'Yazar'
+            created_at: 'Oluşturulma tarihi'
+            edited_at: 'Düzenlenme tarihi'
+            submit: 'Kaydet'
+            cancel: 'İptal'
+        search:
+            placeholder: 'Kullanıcılarda ara'
+            type-more: 'Veritabanında aramak için en az 3 karakter yazın'
+            no-results: 'Sonuç yok'
+
+    admin:
+        permissions:
+            edit-user: 'Tartışmayı güncelleyin ve yazarı yazın'
+            edit-date: 'Gönderiyi güncelleyin ve yazarı yazın'
