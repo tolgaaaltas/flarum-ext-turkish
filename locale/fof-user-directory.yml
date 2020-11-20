@@ -7,11 +7,15 @@ fof-user-directory:
     permissions:
       view_user_directory: 'Kullanıcı listesini görüntüle'
     settings:
-      link: 'Kullanıcı listesinin görülebilmesi için anasayfaya bağlantı ekle.'
+      default-sort: 'Varsayılan sıralama'
+      link: 'Kullanıcı listesinin görülebilmesi için anasayfaya bağlantı ekle'
       title: 'Kullanıcı Listesi Ayarları'
   forum:
     page:
+      empty_text: 'Aramanızla eşleşen bir kullanıcı bulamadık.'
+      load_more_button: '=> core.ref.load_more'
       nav: 'Kullanıcı Listesi'
+      refresh_tooltip: '=> core.forum.index.refresh_tooltip'
       sort:
         default: Varsayılan
         least_discussions: 'En az tartışma başlatana göre'
@@ -27,3 +31,17 @@ fof-user-directory:
         username_za: 'Kullanıcı adı (z-a)'
     search:
       users_heading: 'Tüm kullanıcılarda ara "{query}"'
+  lib:
+    sort:
+      default: Varsayılan
+      least_discussions: 'Az tartışmaya göre'
+      least_posts: 'Az gönderiye göre'
+      most_discussions: 'Çok tartışmaya göre'
+      most_posts: 'Çok gönderiye göre'
+      newest: 'En yeni'
+      not_specified: 'Flarum''u varsayılan olarak kullan'
+      oldest: 'En eski'
+      seen_oldest: 'Ziyaret etmeyenler'
+      seen_recent: 'Son çevrimiçi olan'
+      username_az: 'Kullanıcı Adı (a-z)'
+      username_za: 'Kullanıcı Adı (z-a)'
