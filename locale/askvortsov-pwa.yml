@@ -37,3 +37,8 @@ askvortsov-pwa:
       success: 'Potansiyel hata mevcut değil!'
       sw_does_not_exist: 'The Service Worker file does not exist. Try saving settings to refresh configuration.'
       sw_not_accessible: 'The service worker file is not accessible. It should be at https://YOUR_FLARUM_SITE_URL/sw.js. If it not there, please review your web server''s configuration. If not, you can ignore this message.'
+  forum:
+    discussion_controls:
+      share_button: Paylaş
+    post_controls:
+      share_button: Paylaş
