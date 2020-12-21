@@ -6,6 +6,8 @@ fof-impersonate:
   admin:
     permissions:
       login: 'Bu kullanıcı olarak giriş yap'
+    settings:
+      title: 'FoF Impersonate'
   forum:
     user_controls:
       impersonate_button: 'Giriş yapılacak kullanıcı'
