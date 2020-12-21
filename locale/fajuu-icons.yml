@@ -16,6 +16,11 @@ fajuu-icons:
       key_heading: 'Kit kodu'
       key_text: "<a>Kit kodunu nasıl bulurum?</a> Ücretsiz sürüm kayıt gerektirir. Bir set oluşturun ve 10 haneli kodunuzu edinin. Eğer mevcut bir setiniz varsa kodunu sisteme girin. \n"
       title: 'Simge ayarları'
+    icons:
+      export_icons_button: 'İkonları dışa aktar'
+      import_icons_button: 'İkonları içe aktar'
+      list_icons_button: 'İkonlar listesi'
+      settings_button: Ayarlar
     nav:
       icons_button: '=> fajuu-icons.ref.icons'
       icons_text: 'Simgeleri ve stillerini değiştir'

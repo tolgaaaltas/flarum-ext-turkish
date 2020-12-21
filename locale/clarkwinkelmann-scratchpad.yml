@@ -4,6 +4,15 @@
 
 clarkwinkelmann-scratchpad:
   admin:
+    compilation-alert:
+      failure: 'Derleme başarısız!'
+      success: Derlendi!
+      view-output: 'Çıktıyı göster'
+    compilation-modal:
+      npm: 'NPM çıktısı'
+      npm-not-run: 'NPM çalışmadı'
+      title: 'Derleme çıktısı'
+      webpack: 'Webpack çıktısı'
     controls:
       compile: 'JS''yi derle'
       delete: Sil
