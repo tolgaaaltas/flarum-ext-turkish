@@ -6,6 +6,9 @@ fof-doorman:
   admin:
     doorkey_required: 'Bir davet kodu oluşturmalısınız'
     invalid_doorkey: 'Girdiğiniz davet kodu geçersiz.'
+    modal:
+      group: '{group} grubu için davetiye gönderiliyor'
+      title: 'Davetiye Kodu Gönder'
     nav:
       desc: 'Kullanıcıların kaydolması ve bir gruba atanması için davet kodları oluşturun'
     page:
@@ -30,6 +33,9 @@ fof-doorman:
         warning: 'Bu davet kodu maksimum sayıda kullanılmış.'
       title: Doorman
   forum:
+    email:
+      body: "Merhaba,\n\n{forum} sitesi için bir davetiye aldın.\n\nKayıt olmak için hazır olduğunda aşağıdaki bağlantıyı kullanabilir ve kayıt olurken kodu kullanabilirsin:\n\nBağlantı: {url}\nDavet kodu: {code}\n\nEğer bu mesajı yanlışlıkla aldığınızı düşünüyorsanız görmezden gelebilirsiniz.\n"
+      subject: 'Katılmak için Davet Et'
     sign_up:
       doorkey_required: 'Lütfen davet kodunu giriniz.'
       doorman_placeholder: 'Davet Kodu'

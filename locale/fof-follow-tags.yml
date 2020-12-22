@@ -14,6 +14,10 @@ fof-follow-tags:
     newDiscussionInTag: '[Etiket | Yeni Tartışma] başlığı'
     newDiscussionTag: '[Etiket | Değişen Etiket] başlığı'
     newPostInTag: '[Etiket | Yeni Gönderi] başlığı'
+    subject:
+      newDiscussionInTag: '[Etiket | Yeni Tartışma] {title}'
+      newDiscussionTag: '[Etiket | Değişen Etiket] {title}'
+      newPostInTag: '[Etiket | Yeni Gönderi] {title}'
   forum:
     badge:
       following_tag_tooltip: 'Takip Edilen'
