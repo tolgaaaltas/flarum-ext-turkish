@@ -8,6 +8,7 @@ fof-doorman:
     invalid_doorkey: 'Girdiğiniz davet kodu geçersiz.'
     modal:
       group: '{group} grubu için davetiye gönderiliyor'
+      placeholder: 'Epostaları girin'
       title: 'Davetiye Kodu Gönder'
     nav:
       desc: 'Kullanıcıların kaydolması ve bir gruba atanması için davet kodları oluşturun'
