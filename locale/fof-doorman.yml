@@ -8,7 +8,12 @@ fof-doorman:
     invalid_doorkey: 'Girdiğiniz davet kodu geçersiz.'
     modal:
       group: '{group} grubu için davetiye gönderiliyor'
+      help: 'Virgül, boşluk veya virgülle ayrılmış bir listeyi kabul eder. Tek bir e-posta yazın veya bir liste yapıştırın ve ardından/onları eklemek için boşluk tuşuna basın.'
+      invalid_emails: 'Bu e-postalar geçersiz: {emails}'
+      max_use_conflict: 'E-posta sayısı, bu kod için maksimum kullanım sayısını aşıyor.'
       placeholder: 'Epostaları girin'
+      send: 'Mailleri gönder'
+      success: 'E-postalar başarıyla gönderildi'
       title: 'Davetiye Kodu Gönder'
     nav:
       desc: 'Kullanıcıların kaydolması ve bir gruba atanması için davet kodları oluşturun'

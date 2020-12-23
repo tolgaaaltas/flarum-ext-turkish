@@ -12,10 +12,14 @@ kyrne-shout:
   forum:
     chat:
       cant_send: '{username} yanıt verene kadar yeni bir mesaj gönderemezsiniz (yalnızca ilk mesaj için geçerli)'
+      cant_send_toomany: 'Daha fazla mesaj göndermeden önce lütfen {username} yanıtını bekleyin'
+      cant_start: 'Görüşme Başlatılamıyor'
       chat_with: '{username} ile sohbet'
+      failed_message: 'Mesajın şifresi çözülemedi, kurtarma yöntemi #{method} deneniyor'
       failed_to_decrypt: '[Şifre çözülürken hata oluştu]'
       messages_multiple: '{count} toplam mesaj'
       messages_single: 'Yeni sohbet'
+      recovery_message: 'Sistem mesajı: Şifreleme senkronizasyonu kayboldu ve kurtarıldı'
       send: 'Mesaj Gönder'
       start: 'Sohbet Başlat'
       start_of_conversation: 'Sohbet Başlangıcı'
@@ -27,6 +31,7 @@ kyrne-shout:
       copied: 'Mesajınız panoya kopyalandı.'
       help: 'Sohbete başlamak için bir kullanıcı adı yazın.'
       help_start: 'İlk mesajını yaz. Yeni bir mesajı yalnızca {username} sana yanıt verdikten sonra yazabilirsin. Farklı bir kullanıcı seçmek için tıkla.'
+      more_users: 'Aradığınız kullanıcıyı göremezseniz, özel mesajlaşma kurulumuna sahip değildir.'
       search_recipients: 'Kullanıcı adı girin...'
       submit: 'Gönder & Sohbet Başlat'
       title: 'Sohbet Başlat'

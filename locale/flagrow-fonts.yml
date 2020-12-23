@@ -11,6 +11,7 @@ flagrow-fonts:
       loader:
         loading: Yükleniyor...
         more: 'Daha fazla yükle'
+      sample-text: 'Hızlı kahverengi tilki tembel köpeğin üzerinden atlar.'
       select:
         enable: Etkin
         update: Güncelleme
@@ -19,6 +20,7 @@ flagrow-fonts:
         date: 'Son eklenen/güncellenen'
         enabled: Etkin
         popularity: Popülerlik
+        trending: 'Bu aralar popüler'
     modal:
       settings:
         field:
