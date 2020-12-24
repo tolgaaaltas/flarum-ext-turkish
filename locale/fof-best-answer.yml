@@ -35,7 +35,7 @@ fof-best-answer:
     best_answer_button: 'En İyi Yanıt'
     best_answer_label: '<a>{username}</a> tarafından {time_set}'
     errors:
-      mismatch: 'Seçilen gönderi bu tartışmada mevcut değil'
+      mismatch: 'Seçilen gönderi bu tartışmada mevcut değil.'
     notification:
       awarded: 'Gönderiniz {username} tarafından en iyi yanıt olarak seçti'
       awarded_email: 'Gönderiniz kullanıcı tarafından en iyi yanıt olarak seçti'

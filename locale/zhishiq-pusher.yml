@@ -9,4 +9,8 @@ zhishiq:
       app_id_label: 'App ID'
       app_key_label: 'App Key'
       app_secret_label: 'App Secret'
+      async_push: 'Eşzamansız basmayı etkinleştir (1, etkinleştirme, 0 devre dışı bırakma anlamına gelir)'
       setting_title: 'Gelişmiş Pusher Ayarları'
+    forum:
+      discussion_list:
+        show_updates_text: 'Güncellenen {count} tartışmayı göster | Güncellenen {count} tartışmayı göster'
