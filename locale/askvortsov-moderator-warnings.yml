@@ -42,7 +42,7 @@ askvortsov-moderator-warnings:
       warnings_no_strikes: 'Moderatör Uyarıları: Hiçbir Uyarı Alınmadı'
     warning_list_item:
       linked_post: 'Bağlantılı Gönderi'
-      list_item_heading: '<strong>{mod_username}</strong> adlı moderatör <strong>{strikes}</strong> kez uyardı'
+      list_item_heading: '<strong>{mod_username}</strong> adlı moderatör <strong>{strikes}</strong> ihtarla uyardı'
       list_item_heading_hidden: '<strong>{mod_username}</strong> adlı moderatör <strong>{strikes}</strong> uyarıları <strong>(silindi)</strong>'
       private_comment: 'Moderatörlere Görünür Yorumlar'
       public_comment: Uyarı
