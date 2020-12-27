@@ -22,6 +22,12 @@
         "url": "https://tolgaaltas.com/contact/"
         }
         ],
+        "authors": [
+        {
+            "name": "tolgaaaltas",
+            "homepage": "https://discuss.flarum.org/u/tolgaaaltas"
+        }
+        ],
 	"require": {
 		"flarum/core": "^0.1.0-beta.15"
 	},
