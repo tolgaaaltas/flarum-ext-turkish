@@ -3,8 +3,37 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-webhooks:
+  actions:
+    discussion:
+      deleted: 'Tartışma silindi `{1}`'
+      hidden: 'Tartışma gizlendi `{1}`'
+      renamed:
+        description: 'Yeni başlık: {1}'
+        title: 'Tartışma yeniden adlandırıldı `{1}`'
+      restored: 'Tartışma geri yüklendi `{1}`'
+      started: 'Tartışma başlatıldı `{1}`'
+    group:
+      created: 'Grup oluşturuldu `{1}`'
+      deleted: 'Grup silindi `{1}`'
+      renamed: 'Grup adı değiştirildi `{1}`'
+    post:
+      deleted: 'Gönderi silindi `{1}`'
+      hidden: 'Gönderi gizlendi `{1}`'
+      posted: 'Yeni gönderi `{1}`'
+      restored: 'Gönderi geri yüklendi `{1}`'
+      revised: 'Gönderi düzenlendi `{1}`'
+    user:
+      deleted: 'Kullanıcı silindi `{1}`'
+      registered: 'Kayıtlı yeni kullanıcı'
+      renamed:
+        description: 'Yeni kullanıcı: {1}'
+        title: 'Kullanıcı adı değiştirildi `{1}`'
+  adapters:
+    errors:
+      404: 'Webhook Bulunamadı'
   admin:
     errors:
+      service_not_found: '''{service}'' hizmeti bulunamıyor.'
       url_invalid: 'Bağlantı, seçilen servis için geçerli değil.'
     nav:
       desc: 'Forumunuz için özelleştirilebilir web kancaları.'
@@ -16,13 +45,20 @@ fof-webhooks:
             hidden: '=> fof-webhooks.ref.hidden'
             renamed: '=> fof-webhooks.ref.renamed'
             restored: '=> fof-webhooks.ref.restored'
+            started: Başladı
+            title: 'Flarum Tartışma'
           group:
+            created: Oluşturuldu
             deleted: '=> fof-webhooks.ref.deleted'
             renamed: '=> fof-webhooks.ref.renamed'
+            title: 'Flarum Grubu'
           post:
             deleted: '=> fof-webhooks.ref.deleted'
             hidden: '=> fof-webhooks.ref.hidden'
+            posted: Gönderildi
             restored: '=> fof-webhooks.ref.restored'
+            revised: Düzenlendi
+            title: 'Flarum Gönderi'
           user:
             deleted: '=> fof-webhooks.ref.deleted'
             registered: Kayıtlı
@@ -30,11 +66,22 @@ fof-webhooks:
             title: 'Flarum Kullanıcısı'
       help:
         disabled: 'Bu web kancası, etkin bir etkinliğe sahip olmadığı için kapatıldı.'
+        general: 'Burada forumunuza webhooklar ekleyebilir, düzenleyebilir ve kaldırabilirsiniz.'
+        url: 'Webhook''un yürütülecek uç noktası'
       item:
         tag_any_label: Hiç
       modal:
+        description: 'Burada, webhookun hangi olaylarda tetikleneceğini değiştirirsiniz.'
+        events_label: Etkinlikler
+        extra_text_help: 'Gönderilen webhooka eklenecek ekstra metin.'
         extra_text_label: 'İlave Metin'
+        group_help: 'Bu grup tarafından görülebilecek kaynakları gönderin'
+        group_label: Grup
         title: 'Web Kancaları Ayarları'
+      services:
+        discord: Discord
+        microsoft-teams: 'Microsoft Teams'
+        slack: Slack
   ref:
     deleted: Silindi
     hidden: Gizli
