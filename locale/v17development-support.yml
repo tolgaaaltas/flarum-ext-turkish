@@ -33,10 +33,15 @@ v17development-flarum-support:
     ask_your_question_on_forum: 'Forumlarda sorunu sor'
     composer:
       article_saved: 'Makale kaydedildi'
+      compose_article: 'Makale oluştur'
+      enter_message_here: 'Mesajınızı buraya girin'
       manage_tags: 'Etiketleri yönet'
+      new_article_title: 'Yeni makale başlığı'
       nothing_to_preview: 'Önizlenecek bir şey yok'
       publish_article: 'Makaleyi paylaş'
       publish_article_hint: 'Makaleyi gönderdikten sonra paylaş.'
+      view: Görünüm
+      warning_save_changes: "UYARI: Bu sayfadan ayrılmak üzeresiniz ve değişikliklerinizi kaydetmediniz. Ayrılmadan önce değişikliklerinizi kaydetmek ister misiniz?\n\n[OK] = Evet, kaydet. [CANCEL] = Hayır, kaydetme\n"
       write: Yaz
     create: Oluştur
     discard: İptal
@@ -51,6 +56,7 @@ v17development-flarum-support:
         feedback: 'Geri Bildirim'
         loading_ratings: 'Derecelendirmeler yükleniyor'
         no_ratings_found: 'Arama kriterlerinizle eşleşen derecelendirme bulunamadı'
+        rated_on: 'Tarihinde derecelendirildi'
         rating: Derecelendirme
         title: 'Makale derecelendirmeleri'
         username: '=> core.ref.username'
@@ -104,3 +110,7 @@ v17development-flarum-support:
         invalid_points: 'Bilinmeyen derecelendirme. Lütfen tekrar deneyin.'
         missing_article_id: 'Kayıp veya var olmayan makale ID''si'
         neutral_emoji_disabled: 'Kararsız ifadesi devre dışı bırakılmıştır.'
+    utils:
+      redirect:
+        link: 'Sayfa sizi yönlendirmezse <a>burayı tıklayın</a>'
+        title: 'Sizi Bilgi Bankası makalemize yönlendiriyoruz...'
