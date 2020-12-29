@@ -31,12 +31,34 @@ v17development-flarum-support:
       article_public: 'Makale {username} tarafından herkese açıldı'
     ask_a_question_on_forums: 'Forumlarda soru sorun'
     ask_your_question_on_forum: 'Forumlarda sorunu sor'
+    composer:
+      article_saved: 'Makale kaydedildi'
+      manage_tags: 'Etiketleri yönet'
+      nothing_to_preview: 'Önizlenecek bir şey yok'
+      publish_article: 'Makaleyi paylaş'
+      publish_article_hint: 'Makaleyi gönderdikten sonra paylaş.'
+      write: Yaz
     create: Oluştur
     discard: İptal
     hero:
       check_forum: 'Aradığını bulamıyorsan <a>foruma göz atabilirsin</a>'
       help_question: 'Sana nasıl yardımcı olabiliriz?'
     knowledge_base: 'Bilgi merkezi'
+    modals:
+      article_ratings:
+        article_not_rated: 'Bu makale henüz derecelendirilmemiş.'
+        confirm_delete_rating: 'Bu derecelendirmeyi silmek istediğinize emin misiniz?'
+        feedback: 'Geri Bildirim'
+        loading_ratings: 'Derecelendirmeler yükleniyor'
+        no_ratings_found: 'Arama kriterlerinizle eşleşen derecelendirme bulunamadı'
+        rating: Derecelendirme
+        title: 'Makale derecelendirmeleri'
+        username: '=> core.ref.username'
+      audit_log:
+        article_created: 'Makale oluşturuldu'
+        loading_auditlog: 'Denetim günlüğü yükleniyor'
+        no_more_events: 'Daha fazla etkinlik bulunamadı'
+        title: 'Makale denetim günlüğü'
     not_found:
       description: 'Üzgünüz, bu makale veya kategori artık mevcut değil.'
       solution: 'Aradığınızı bulmak için yukarıdaki arama kutusunu kullanabilirsiniz.'
@@ -65,6 +87,7 @@ v17development-flarum-support:
       searching: Aranıyor
       searching_for: '{searchterm} için aranıyor'
       title: Ara
+      use_searchbox_below: 'Bilgi merkezinde arama yapmak için aşağıdaki arama kutusunu kullanın.'
     send: Gönder
     settings: '=> core.ref.settings'
     support_ratings:
@@ -74,3 +97,10 @@ v17development-flarum-support:
       finished: 'Teşekkürler! Geri bildirimininiz kaydedildi.'
       helful_article: 'Bu makale yararlı oldu mu?'
       helful_support: 'Destek talebinize yaklaşımımızdan memnun kaldınız mı?'
+      validation:
+        cannot_rate_article: 'Bu makaleyi derecelendiremezsin.'
+        guest: 'Bu makaleyi derecelendirmeden önce lütfen giriş yapın.'
+        invalid_discussion: 'Ups, bir şeyler yanlış gitti. Bu makaleyi/yardım talebini derecelendiremezsin.'
+        invalid_points: 'Bilinmeyen derecelendirme. Lütfen tekrar deneyin.'
+        missing_article_id: 'Kayıp veya var olmayan makale ID''si'
+        neutral_emoji_disabled: 'Kararsız ifadesi devre dışı bırakılmıştır.'
