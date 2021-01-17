@@ -16,6 +16,16 @@ v17development-flarum-blog:
       locked: 'Bu makale için yorumlar kısmı kapatılmıştır'
     compose:
       write_article: 'Makale yaz'
+    composer:
+      comment_section: 'Bir makale oluştururken yorum bölümü kullanılamaz.'
+      edit_categories: 'Kategorileri düzenleyin'
+      enter_message_here: 'Mesajınızı buraya girin'
+      no_title: 'Başlık yok'
+      nothing_to_preview: 'Önizlenecek bir şey yok'
+      post_article: 'Makale yayınla'
+      select_category: 'Bir kategori seç'
+      view: Görünüm
+      write: Yaz
     hidden: Gizli
     no_more_posts: 'Daha fazla blog gönderisi yok.'
     read_more: 'Devamını oku'
