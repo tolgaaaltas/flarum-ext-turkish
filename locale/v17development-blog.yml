@@ -20,9 +20,11 @@ v17development-flarum-blog:
       comment_section: 'Bir makale oluştururken yorum bölümü kullanılamaz.'
       edit_categories: 'Kategorileri düzenleyin'
       enter_message_here: 'Mesajınızı buraya girin'
+      no_blog_tags_selected: 'Seçtiğiniz etiketlerin hiçbiri blog etiketi değil. Lütfen en az birini seçin.'
       no_title: 'Başlık yok'
       nothing_to_preview: 'Önizlenecek bir şey yok'
       post_article: 'Makale yayınla'
+      post_without_blog_info: 'Bu blog gönderisini göndermek istediğinizden emin misiniz? Henüz bir blog özeti veya resmi girmediniz.'
       select_category: 'Bir kategori seç'
       view: Görünüm
       write: Yaz
