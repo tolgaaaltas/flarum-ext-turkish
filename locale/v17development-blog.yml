@@ -3,6 +3,14 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 v17development-flarum-blog:
+  admin:
+    blog: Blog
+    permissions:
+      write_articles: 'Blog makaleleri yaz ve düzenle'
+    settings:
+      allow_comments_label: 'Yorumlara izin ver'
+      blog_heading: Blog
+      categories_heading: Kategoriler
   forum:
     article:
       slug: 'Adres Kısa Adı'
@@ -28,6 +36,7 @@ v17development-flarum-blog:
       select_category: 'Bir kategori seç'
       view: Görünüm
       write: Yaz
+    forum_nav: 'Forum Menüsü'
     hidden: Gizli
     no_more_posts: 'Daha fazla blog gönderisi yok.'
     read_more: 'Devamını oku'
