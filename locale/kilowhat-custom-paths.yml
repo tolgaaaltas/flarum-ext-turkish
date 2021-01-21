@@ -14,6 +14,7 @@ kilowhat-custom-paths:
         fof-gamification: 'FriendsOfFlarum Gamification'
         fof-pages: 'FriendsOfFlarum Sayfalar'
         fof-user-directory: 'FriendsOfFlarum Kullanıcı Dizini'
+        kilowhat-formulaire: 'KILOWHAT Formulaire'
       head:
         name: İsim
         path: Dizin
@@ -25,6 +26,8 @@ kilowhat-custom-paths:
         fof-pages: Sayfalar
         fof-user-directory: 'Kullanıcı dizini'
         following: 'Takip edilenler'
+        formulaire-form: Form
+        formulaire-submission: Submission
         index: 'Tartışma listesi (anasayfada olmadığınızda)'
         notifications: 'Bildirimler (mobilde)'
         settings: Ayarlar
