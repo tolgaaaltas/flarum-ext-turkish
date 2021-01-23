@@ -8,7 +8,7 @@ clarkwinkelmann-follow-tags-prompt:
       following: 'Takip etme'
     settings:
       allDiscussionsOnFollowingPageForGuests: 'Takip edilen sayfadaki tüm tartışmaları misafirler için göster'
-      availableTagStrategy: 'Modal olarak sunulacak etiketler'
+      availableTagStrategy: 'Model olarak sunulacak etiketler'
       buttonOnFollowingPage: 'Takip edilen sayfada düğmeyi göster'
       tagStrategy:
         all: 'Tüm etiketler'
