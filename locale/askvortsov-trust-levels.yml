@@ -11,6 +11,7 @@ askvortsov-trust-levels:
       discussions_participated: 'Katıldığı Tartışmalar'
       discussions_started: 'Oluşturduğu Tartışmalar'
       likes_given: 'Verilen Beğeniler'
+      likes_received: 'Alınan Beğeniler'
       posts_made: 'Yapılan Gönderiler'
     trust_level_modal:
       delete_button: 'Güven Düzeyini Sil'
