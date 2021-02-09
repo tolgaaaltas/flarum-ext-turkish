@@ -7,3 +7,4 @@ blomstra-payments:
     pay-to-view:
       purchase-completed: 'Kilitli değil'
       purchase-control: 'Görüntülemek için Ödeme Yapın'
+      purchase-log-in: 'Giriş Yap ve Görüntülemek için Ödeme Yap'
