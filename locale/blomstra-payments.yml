@@ -3,7 +3,13 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 blomstra-payments:
+  admin:
+    settings:
+      sk: 'Secret (api) key'
   forum:
+    access-portal:
+      options: ayarlar
+      purchase: 'satın al'
     pay-to-view:
       purchase-completed: 'Kilitli değil'
       purchase-control: 'Görüntülemek için Ödeme Yapın'
