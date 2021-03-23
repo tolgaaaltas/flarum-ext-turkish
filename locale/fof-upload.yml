@@ -36,7 +36,7 @@ fof-upload:
           both: 'İkisi de'
           media-btn: 'Yalnızca medya yöneticisi düğmesi'
           upload-btn: 'Yalnızca yükleme düğmesi'
-        title: 'Editör düğmeleri'
+        title: 'Düzenleyici düğmeleri'
       disable-download-logging:
         title: 'İndirme kayılarını kapat'
         toggle: Kapat
