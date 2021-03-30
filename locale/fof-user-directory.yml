@@ -11,6 +11,8 @@ fof-user-directory:
       link: 'Kullanıcı listesinin görülebilmesi için anasayfaya bağlantı ekle'
       title: 'Kullanıcı Listesi Ayarları'
   forum:
+    header:
+      back_to_user_directory_tooltip: 'Kullanıcı Listesine Dön'
     page:
       empty_text: 'Aramanızla eşleşen bir kullanıcı bulamadık.'
       filter_button: 'Grupları Filtrele'
