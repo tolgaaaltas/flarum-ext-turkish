@@ -5,6 +5,7 @@
 imgur-upload:
   admin:
     settings:
+      allow-paste: 'Görüntüyü yapıştırarak yüklemeye izin ver'
       embed-type:
         full-with-link: 'Tam boyutlu görsel ile bağlantı'
         full-without-link: 'Bağlantı olmadan tam boyutlu görsel'
