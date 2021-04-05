@@ -53,5 +53,7 @@ v17development-flarum-badges:
       remove_badge: 'Kullanıcıdan rozeti kaldır'
       remove_badge_confirm: 'Bu kullanıcıdan rozeti kaldırmak istediğine emin misiniz?'
     select_badge: 'Rozeti seç'
+    uncategorized: '=> v17development-flarum-badges.admin.uncategorized'
     update_badge: 'Rozeti güncelle'
     user_has_badge: 'Bu kullanıcı zaten rozete sahip.'
+    user_no_badges: 'Bu kullanıcı herhangi bir rozete sahip değil.'
