@@ -16,6 +16,8 @@ v17development-flarum-blog:
       allow_comments_text: 'Varsayılan olarak, blog gönderilerine yorumlara izin verin. Devre dışı bırakıldığında, her blog yazısı için ayrı ayrı etkinleştirilebilir. <b>Not:</b> Bu ayarı değiştirmek, önceden var olan blog gönderilerini etkilemeyecektir.'
       blog_heading: Blog
       categories_heading: Kategoriler
+      default_article_image_label: 'Varsayılan makale görseli'
+      default_article_image_text: 'Resim ayarlanmadığında görüntülenecek varsayılan bir makale resmi seçin.'
       hide_on_discussion_list_label: 'Tartışma listesinde gösterme'
       hide_on_discussion_list_text: 'Tartışma listesinden blog gönderilerini gizleyin.'
       hide_tags_in_taglist_label: 'Etiket listesinde etiketleri gizle'

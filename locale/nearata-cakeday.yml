@@ -15,3 +15,14 @@ nearata-cakeday:
   forum:
     anniversary: Yıldönümü
     new_member_label: 'Yeni Üye'
+    page:
+      anniversaries_between_label: '{date1} ile {date2} arasındaki yıldönümleri'
+      anniversaries_for_label: '{date} için Yıldönümleri'
+      empty: 'Yıldönümü yok.'
+      filter_options:
+        all: Tümü
+        today: Bugün
+        tomorrow: Yarın
+        upcoming: Yaklaşan
+      load_more_button: 'Daha fazla yükle'
+      title: Yıldönümleri

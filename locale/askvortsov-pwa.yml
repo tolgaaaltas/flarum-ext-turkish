@@ -11,6 +11,7 @@ askvortsov-pwa:
       about:
         description_text: 'Açıklamayı Yönetim sayfasında yer alan ''Temel Öğeler'' sekmesinden ayarlayabilirsniz.'
         heading: Hakkında
+        long_name_text: 'Kullanıcı tarafından görüntülenen web uygulaması adı.'
         name_text: 'PWA''de kullanılacak daha uzun bir ad girin'
         short_name_text: 'Kısa adı Yönetim sayfasında yer alan ''Temel Öğeler'' sekmesinden ayarlayabilirsiniz.'
       colors:
@@ -22,6 +23,9 @@ askvortsov-pwa:
       logo_heading: 'Logolar ve Simgeler'
       logo_size_text: 'Upload a logo which will be scaled to {size} pixels by {size} pixels size.'
       logo_text: "You must upload at least one logo for your progressive web app to be installable. Please note that all logos must be square; if they are not, they will be resized and possibly stretched.\nThere are a number of size options available below. I would recommend trying to upload a logo to as many as you can: this supports more devices.\nPlease note that you can upload 1 large logo to inputs for smaller logos. For instance, you can upload a 1000px x 1000px logo to ALL the file inputs below. However, if you try to upload a 50px x 50px logo to the 512x512 input, it will be stretched a lot.\n"
+      maintenance:
+        debug_label: 'Hata ayıklama modu? Buna dair kayıtlar `storage/logs` içerisinde tutuluyor.'
+        heading: Bakım
       refreshed_message: 'PWA config refreshed successfully.'
       status_check_heading: 'Durum Kontrolü'
       submit_button: 'Ayarları Kaydet'
