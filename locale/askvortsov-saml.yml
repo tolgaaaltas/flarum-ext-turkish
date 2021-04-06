@@ -4,6 +4,8 @@
 
 askvortsov-saml:
   admin:
+    header:
+      text: 'Meta veri bağlantısının veya meta verinin doldurulduğundan emin olun.'
     labels:
       idp_metadata: 'Kimlik Sağlayıcı Metadata XML (Bağlantı alternatifi)'
       idp_metadata_url: 'Kimlik Sağlayıcı Metadata Bağlantısı (XML Alternatifi)'

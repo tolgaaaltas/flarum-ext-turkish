@@ -18,6 +18,15 @@ fof-linguist:
       text: "Yeni çeviriler henüz uygulanmadı. Not: Önbelleği temizlemek forumunuzu geçici olarak yavaşlatabilir.\n"
     coverage:
       all-namespaces: Tümü
+      apply-missing-filter: 'Eşleşen eksik çevirileri göster'
+      column-options:
+        locale: 'Dile göre'
+        namespace: 'Ön uca göre'
+      columns:
+        all-except-admin: 'Forum ve diğer ön uçlar'
+        all-frontends: 'Tüm ön uçları göster'
+        namespace: 'Ad alanı'
+        total: Toplam
       count:
         details: '{total} toplam / {original} orijinal / {custom} özel'
         percent: '% {percent}'
@@ -26,10 +35,17 @@ fof-linguist:
         count: Sayı
         percent: Yüzde
     export:
+      include-originals: 'Tüm asıl çevirileri dahil et'
+      locale: Yerel
+      namespace: 'Ad Alanı'
+      namespace-all: Tümü
       title: 'Dışa Aktar'
     filters:
       for-extension: 'Uzantılar için'
       for-extension-unavailable: 'Beklenen "{namespace}" ad alanında çeviri bulunamadı. Belki bu uzantı, çevrilecek herhangi bir metne sahip değildir veya farklı bir ad alanı kullanıyor. Çevirilerini bulmak için arama alanını kullanmayı deneyin.'
+      frontend: 'Ön uç için'
+      frontend-all-except-admin: 'Yönetici hariç tümü'
+      mass-edit: 'Toplu düzenleme'
       missing: 'Eksik çevirileri bulun'
       missing-middle-label: çeviriler
       negation-options:
