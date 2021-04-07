@@ -13,7 +13,7 @@ askvortsov-pwa:
         heading: Hakkında
         long_name_text: 'Kullanıcı tarafından görüntülenen web uygulaması adı.'
         name_text: 'PWA''de kullanılacak daha uzun bir ad girin'
-        short_name_text: 'Kısa adı Yönetim sayfasında yer alan ''Temel Öğeler'' sekmesinden ayarlayabilirsiniz.'
+        short_name_text: 'Uzun ad için yeterli alan yoksa, kullanıcıya gösterilen uygulama adı.'
       colors:
         background_color_text: 'Bu renk PWA uygulamanız açılırken açılış ekranı için arkaplan rengi olakcaktır. Uygulama açıldığında herhangi bir fonksiyonu olmaz.'
         heading: Renkler
