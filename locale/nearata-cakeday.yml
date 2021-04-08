@@ -13,16 +13,16 @@ nearata-cakeday:
     new_members_howlong: '(Yeni Üyeler) Ne kadar süredir'
     new_members_howlong_help: 'Gün olarak ifade edilir.'
   forum:
-    anniversary: Yıldönümü
+    anniversary: 'Yıl Dönümü'
     new_member_label: 'Yeni Üye'
     page:
-      anniversaries_between_label: '{date1} ile {date2} arasındaki yıldönümleri'
-      anniversaries_for_label: '{date} için Yıldönümleri'
-      empty: 'Yıldönümü yok.'
+      anniversaries_between_label: '{date1} ile {date2} arasındaki yıl dönümleri'
+      anniversaries_for_label: '{date} için Yıl Dönümleri'
+      empty: 'Yıl Dönümü yok.'
       filter_options:
         all: Tümü
         today: Bugün
         tomorrow: Yarın
         upcoming: Yaklaşan
       load_more_button: 'Daha fazla yükle'
-      title: Yıldönümleri
+      title: 'Yıl Dönümleri'
