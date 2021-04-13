@@ -36,6 +36,22 @@ pushedx-chat:
       minimize: Küçült
       title: Sohbet
 xelson-chat:
+  admin:
+    permissions:
+      create:
+        channel: 'Kanal oluşturma'
+        chat: 'Sohbeti başlatma'
+      delete: 'Sohbet mesajlarını silme'
+      edit: 'Sohbet mesajlarını düzenleme'
+      enabled: 'Sohbeti etkinleştirme'
+      moderate:
+        delete: 'Sohbet mesajlarını silme'
+        vision: 'Silinen mesajları görme'
+    settings:
+      charlimit: 'Mesaj karakterlerindeki üst sınır'
+      floodgate:
+        title: 'Tekrar karşıtı'
+      title: 'Sohbet ayarları'
   forum:
     chat:
       edit_modal:
@@ -125,6 +141,10 @@ xelson-chat:
       welcome:
         header: 'Neon Sohbet''e Hoşgeldiniz!'
         subheader: 'Lütfen yazışmak için sol taraftan bir sohbet seçiniz'
+    errors:
+      chatdenied: 'Grubunuz mesaj yazma iznine sahip değil'
+      removed: 'Sohbetten çıkartıldınız'
+      unauthenticated: 'Yalnızca kayıtlı kullanıcılar sohbeti kullanabilir'
     index:
       chat_link: Sohbet
     pusher_not_found: 'Sohbetin anlık olarak güncellenebilmesi için Pusher veya Websocket gereklidir.'
