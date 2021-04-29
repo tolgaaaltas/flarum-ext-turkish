@@ -6,6 +6,8 @@ flarum-ext-socialcards:
   admin:
     settings:
       fblink: 'Facebook Bağlantısı'
+      ghlink: 'GitHub Bağlantısı'
+      showGithub: 'GitHub''ı etkinleştir'
       showfacebook: 'Facebook''u etkinleştir'
       showtwitter: 'Twitter''ı etkinleştir'
       showyoutube: 'YouTube''u etkinleştir'
