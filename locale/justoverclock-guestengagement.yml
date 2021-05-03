@@ -9,8 +9,11 @@ flarum-ext-guestengagement:
     autohide: 'X saniye sonra kutuyu otomatik gizle'
     autohidedesc: 'milisaniye kullanın, örneğin 5 saniye için 5000 kullanın'
     changetextbox: 'Kutudaki metni değiştirin'
+    changetextboxdesc: 'Buradan, YAZILAR ARASINDA bulunan uyarı kutusu metnini ayarlayabilirsiniz'
     enablealbox: 'Anasayfada uyarı kutusunu etkinleştir/etkisizleştir'
+    enablepostbox: '"Gönderiler Arası" kutusunu etkinleştir/etkisizleştir'
     maintitle: 'Kutudaki başlığı değiştirin'
+    maintitledesc: 'Buradan, YAZILAR ARASINDA bulunan uyarı kutusu için başlığını ayarlayabilirsiniz'
   forum:
     hello: 'Merhaba! Görünüşe göre bu forumumuzla ilgileniyorsunuz, ancak henüz bir hesap oluşturmadınız.'
     hellops: 'Merhaba! Görünüşe göre bu gönderiyle ilgileniyorsunuz!'
