@@ -22,3 +22,5 @@ flarum-ext-toastme:
     offsetyy: 'Y düzlemi - dikey eksen kenar boşluğu (px) (varsayılan için boş bırakın)'
     posdesc: 'Duyurunun nerede gözükmesini istersiniz? Sol, sağ veya orta?'
     position: 'Yerleşim - Sol için "left", sağ için "right" veya orta için "center" olmalıdır'
+  forum:
+    message1: 'Kullanıcıların dikkati, sayfa tasarımına bakarken harici içerikler tarafından dağıldığı bilinen bir gerçektir.'

@@ -22,3 +22,4 @@ kilowhat-wordpress:
       wordpress_username: 'WordPress Yönetici Kullanıcı Adı'
     tabs:
       disabled: Etkisizleştirildi
+      enabled: Etkinleştirildi
