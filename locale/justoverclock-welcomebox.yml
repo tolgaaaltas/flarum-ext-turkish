@@ -3,9 +3,13 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 flarum-ext-welcomebox:
+  admin:
+    enablepostbox: 'Ziyaretçiler için Hoşgeldin Kutusunu göster'
   forum:
     discussion: Tartışmalar
     groupwb: Gruplar
     logout: Çıkış
+    notregistered: 'Henüz bu foruma üye olmadınız.'
     npost: Gönderi
     wback: 'Tekrar hoşgeldin,'
+    welcomeguest: 'Hoşgeldin Ziyaretçi'

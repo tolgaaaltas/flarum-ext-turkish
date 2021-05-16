@@ -10,4 +10,5 @@ antoinefr-online:
       titleoflist: 'Listenin üstünde görüntülenecek başlık'
   forum:
     andmore: 've {more} daha...'
+    online_users: '{more} kullanıcı daha çevrimiçi|{more} kullanıcı daha çevrimiçi'
     title: 'Kimler çevrimiçi?'
