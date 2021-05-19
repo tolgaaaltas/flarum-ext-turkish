@@ -17,7 +17,7 @@ askvortsov-pwa:
       colors:
         background_color_text: 'Bu renk PWA uygulamanız açılırken açılış ekranı için arkaplan rengi olakcaktır. Uygulama açıldığında herhangi bir fonksiyonu olmaz.'
         heading: Renkler
-        theme_color_text: 'Bu renk uygulamanızın Görev Yöneticindeki rengini belirler. Bu alanı Yönetim sayfasında yer alan ''Görünüm'' sekmesinden ayarlayabilirsiniz.'
+        theme_color_text: 'Bu renk uygulamanızın Görev Yöneticindeki rengini belirler.'
       enable_label: Etkinleştir
       heading: 'İleri Web Uygulaması Ayarları'
       logo_heading: 'Logolar ve Simgeler'
@@ -26,6 +26,9 @@ askvortsov-pwa:
       maintenance:
         debug_label: 'Hata ayıklama modu? Buna dair kayıtlar `storage/logs` içerisinde tutuluyor.'
         heading: Bakım
+      other:
+        force_portrait_text: 'Dikey kullanıma zorlansın mı?'
+        heading: Diğer
       refreshed_message: 'PWA config refreshed successfully.'
       status_check_heading: 'Durum Kontrolü'
       submit_button: 'Ayarları Kaydet'

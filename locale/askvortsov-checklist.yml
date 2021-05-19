@@ -9,3 +9,6 @@ askvortsov-checklist:
   forum:
     composer:
       checklist_tooltip: 'Kontrol Listesini Değiştir'
+  lib:
+    composer:
+      checklist_tooltip: 'Kontrol Listesi'
