@@ -11,6 +11,8 @@ flarumite-simple-discussion-views:
   admin:
     permissions:
       reset_views_label: 'Görüntülenme sayısını ayarla'
+    settings:
+      ignore_crawlers: 'Tarayıcı ziyaretlerini yok say'
   forum:
     discussion_controls:
       resetviews_button: 'Görüntülenme sayısını ayarla'

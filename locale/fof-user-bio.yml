@@ -12,6 +12,7 @@ fof-user-bio:
       bioLimit: 'Biyografi karakter sınırı'
   forum:
     userbioPlaceholder: 'Kendin hakkında bir şeyler yaz'
+    userbioPlaceholderOtherUser: '{username} için biyografi yaz'
 fof-userbio:
   forum:
     userbioPlaceholder: 'Kendin hakkında bir şeyler yaz'
