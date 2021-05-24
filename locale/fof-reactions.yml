@@ -22,14 +22,14 @@ fof-reactions:
       settings:
         integrations:
           gamification:
-            downvoteHelptext: 'Otomatik olarak aşağı oya dönüştürülmesini istediğiniz ifadeyi seçin'
+            downvoteHelptext: 'Otomatik olarak aşağı oya dönüştürülmesini istediğiniz ifadeyi girin'
             downvoteLabel: 'İfadeleri aşağı oya dönüştür'
             legend: Oyunlaştırmak
-            upvoteHelptext: 'Otomatik olarak yukarı oya dönüştürülmesini istediğiniz ifadeyi seçin'
+            upvoteHelptext: 'Otomatik olarak yukarı oya dönüştürülmesini istediğiniz ifadeyi girin'
             upvoteLabel: 'İfadeleri yukarı oya dönüştür'
           legend: Entegrasyonlar
           likes:
-            Helptext: 'Otomatik olarak beğeniye dönüştürülmesini istediğiniz ifadeyi seçin'
+            Helptext: 'Otomatik olarak beğeniye dönüştürülmesini istediğiniz ifadeyi girin'
             Label: 'İfadeleri beğenilere dönüştür'
             legend: Beğeniler
           warning: 'Aynı ifade beğeniye <strong>ve</strong> yukarı oya <strong>dönüştürülemez</strong>'

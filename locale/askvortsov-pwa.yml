@@ -36,13 +36,15 @@ askvortsov-pwa:
     status:
       config_no_https: 'Config.php dosyanızdaki bağlantı HTTPS kullanmıyor. Progressive Web Uygulamalarının çalışması için HTTPS gereklidir.'
       disabled: 'İleri Web Uygulamasını aktifleştirmelisiniz.'
+      key_gen_failed: 'Anlık bildirimler için gerekli anahtarların oluşturulması başarısız oldu. Tam hata mesajı: {error}'
       manifest_does_not_exist: 'The Web Manifest file does not exist. Try saving settings to refresh configuration.'
       manifest_not_accessible: 'The Web Manifest file is not accessible. It should be at https://YOUR_FLARUM_SITE_URL/webmanifest.json. If it not there, please review your web server''s configuration. If not, you can ignore this message.'
       no_logo: 'You must upload at least one logo for your app to work.'
       no_name: 'You must provide a full name for your app to work.'
-      possible_https_disabled: 'Your site might not be running on HTTPS. If it is, ignore this. If it isn''t keep in mind that HTTPS is required for Progressive Web Apps to work.'
+      possible_https_disabled: 'Siteniz HTTPS üzerinde çalışmıyor olabilir.. Önbelleği temizlemek (Yönetim > Araçlar butonu) yardımcı olacaktır. Eğer HTTPS üzerinde çalışıyorsa bu uyarıyı görmezden gelin. İleri Web Uygulamasının çalışması için HTTPS kullanmanız gerektiğini unutmayın.'
       push_needs_gmp_and_web_push: 'Gmp PHP uzantısı ve minishlink/web-push kitaplığı (düzenleyici minishlink/web-push gerektirir) push bildirimlerinin çalışması için etkinleştirilmesi ZORUNLUDUR.'
       success: 'Potansiyel hata mevcut değil!'
+      suggest_gmp: 'Gmp PHP uzantısı sunucunuzda etkin görünmüyor. Kesinlikle gerekli değil, ancak performansı artırabilir ve önerilir. Paylaşılan sunucu kullanıyorsanız desteklemeyebilir.'
       sw_does_not_exist: 'The Service Worker file does not exist. Try saving settings to refresh configuration.'
       sw_not_accessible: 'The service worker file is not accessible. It should be at https://YOUR_FLARUM_SITE_URL/sw.js. If it not there, please review your web server''s configuration. If not, you can ignore this message.'
   forum:
@@ -66,3 +68,7 @@ askvortsov-pwa:
         no_browser_support_button: 'Nasıl Olur'
     user_controls:
       share_button: Paylaş
+  views:
+    offline:
+      header: 'Ağ bağlantı hatası'
+      text: 'Bu uygulama ağ bağlantısı gerektirir; çevrimdışı olarak kullanılamaz. Lütfen bağlantınızı kontrol edin.'
