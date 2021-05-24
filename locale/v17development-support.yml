@@ -122,14 +122,63 @@ v17development-flarum-support:
       convert_to_ticket:
         button: 'Bilete dönüştür'
         confirm: 'Bu tartışmayı bir bilete dönüştürmek istediğinizden emin misiniz?'
+        event: '{ticket_title} tartışması bilete dönüştürüldü'
+      fields:
+        language:
+          description: 'Destek biletiniz {language} olarak ele alınacaktır.'
+          empty: 'Dil tespit edilmedi'
+          placeholder: 'Dil seç'
+          title: Dil
+        subject:
+          placeholder: 'Bilet konusu'
+          title: Konu
+      new_tickets_dropdown:
+        no_tickets: 'Bilet bildirimi yok'
+        ticket_new: '{username}, {ticket} biletini oluşturdu'
+        ticket_updated: '{username}, {ticket} biletine gönderi yazdı'
+        title: 'Bilet Bildirimleri'
       opened_on: Açıldı
       reminders_sent: 'Bir hatırlatıcı gönderildi|{count} hatırlatıcı gönderildi'
       return_to_overview: 'Bilete genel bakışa dön'
+      status:
+        closed:
+          close_after_posting: 'Gönderdikten sonra bileti kapat'
+          description: 'Bu bilet kapandı.'
+          is_auto_closed: 'Etkinlik olmaması nedeniyle bu bilet kapandı.'
+          is_closed: 'Bu bilet kapandı, yanıtladığınızda yeniden açılacaktır. Yalnızca sorun çözülmediğinde bir bileti yeniden açmanızı öneririz. Yeni bir sorun ise lütfen yeni bir destek talebi açın.'
+          title: Kapandı
+        duplicate:
+          description: 'Bu bilet çoğaltılmış olarak işaretlendi.'
+          title: Çoğalt
+        new:
+          description: 'Bu yeni bir yanıtlanmamış bilettir'
+          title: Yeni
+        on_hold:
+          description: 'Bu bilet beklemeye alındı.'
+          title: Beklemede
+        open:
+          description: 'Bu biletin yeni bir yanıtı var ve yanıtınızı bekliyor.'
+          title: Açık
+        pending:
+          description: 'Bu bilet, kullanıcıdan yanıt bekliyor.'
+          description_user: 'Bu bileti yanıtlamanızı veya çözüldü olarak işaretlemenizi bekliyoruz.'
+          title: Bekliyor
+        solved:
+          description: 'Bu bilet çözüldü olarak işaretlendi'
+          mark_as_solved: 'Bu bileti çözüldü olarak işaretle'
+          title: Çözüldü
       subject: Konu
       ticket: Bilet
       ticket_activity: '{username} tarafından son eylem {date}'
       ticket_does_not_exist: 'İstenen destek bileti mevcut değil.'
       ticket_overview: 'Bilet genel bakışı'
+      tools:
+        assign_me: 'Bana ata'
+        close_ticket: 'Bileti kapat'
+        remove_me: 'Beni sil'
+        update_status: 'Bilet durumunu güncelle'
+        update_subject: 'Konuyu güncelle'
+        view_ticket: 'Bileti göster'
     utils:
       redirect:
         link: 'Sayfa sizi yönlendirmezse <a>burayı tıklayın</a>'
