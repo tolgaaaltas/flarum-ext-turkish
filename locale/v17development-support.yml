@@ -4,6 +4,7 @@
 
 v17development-flarum-support:
   forum:
+    admin_overview: 'Yönetici genel bakışını aç'
     article:
       article: Makale
       articles: Makaleler
@@ -105,6 +106,10 @@ v17development-flarum-support:
       finished: 'Teşekkürler! Geri bildirimininiz kaydedildi.'
       helful_article: 'Bu makale yararlı oldu mu?'
       helful_support: 'Destek talebinize yaklaşımımızdan memnun kaldınız mı?'
+      score: Derece
+      switch_sort_score:
+        description: 'Yalnızca geri bildirim alan makaleleri en düşük puanlı makaleye göre sıralayarak gösterin.'
+        label: 'Düşükten yükseğe doğru puan alan makaleleri göster'
       validation:
         cannot_rate_article: 'Bu makaleyi derecelendiremezsin.'
         guest: 'Bu makaleyi derecelendirmeden önce lütfen giriş yapın.'
@@ -114,8 +119,17 @@ v17development-flarum-support:
         neutral_emoji_disabled: 'Kararsız ifadesi etkisizleştirilmiştir.'
     support_tickets: 'Destek biletleri'
     tickets:
+      convert_to_ticket:
+        button: 'Bilete dönüştür'
+        confirm: 'Bu tartışmayı bir bilete dönüştürmek istediğinizden emin misiniz?'
+      opened_on: Açıldı
+      reminders_sent: 'Bir hatırlatıcı gönderildi|{count} hatırlatıcı gönderildi'
+      return_to_overview: 'Bilete genel bakışa dön'
       subject: Konu
       ticket: Bilet
+      ticket_activity: '{username} tarafından son eylem {date}'
+      ticket_does_not_exist: 'İstenen destek bileti mevcut değil.'
+      ticket_overview: 'Bilet genel bakışı'
     utils:
       redirect:
         link: 'Sayfa sizi yönlendirmezse <a>burayı tıklayın</a>'

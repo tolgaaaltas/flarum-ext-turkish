@@ -47,9 +47,16 @@ xelson-chat:
       moderate:
         delete: 'Sohbet mesajlarını silme'
         vision: 'Silinen mesajları görme'
+      post: 'Sohbet mesajı gönder'
     settings:
       charlimit: 'Mesaj karakterlerindeki üst sınır'
+      display:
+        censor: 'Yetkisiz kullanıcılar için mesajları sansürle'
+        minimize: 'Başlangıçta küçült'
+        title: Göster
       floodgate:
+        number: 'Peş peşe gönderilecek mesaj sayısı'
+        time: 'Bir dönem boyunca'
         title: 'Tekrar karşıtı'
       title: 'Sohbet ayarları'
   forum:
@@ -128,8 +135,21 @@ xelson-chat:
             created: '{creatorname}, {chatname} kanalını oluşturdu'
           chat:
             created: '{creatorname], {chatname} oluşturdu ve {usernames} davet etti'
+          color:
+            edited: '{editorname}, {old} renkli sohbeti {new} olarak değiştirdi'
+          icon:
+            edited: '{editorname}, {old} simgeli sohbeti {new} olarak değiştirdi'
           pm:
             created: '{creatorname}, {username} ile sohbet oluşturdu'
+          self:
+            entered: '{username} sohbete katıldı'
+            leaved: '{username} sohbetten ayrıldı'
+          title:
+            edited: '{editorname}, {old} başlıklı sohbeti {new} olarak değiştirdi'
+          users:
+            invited: '{editorname, {usernames} davet etti'
+            invited_kicked: '{editorname}, {invitednames} davet etti ve  {kickednames} attı'
+            kicked: '{editorname, {usernames} attı'
         type:
           code: '<Code />'
           event: Etkinlik
