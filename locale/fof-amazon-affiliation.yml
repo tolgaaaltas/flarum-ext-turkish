@@ -6,6 +6,7 @@ fof-amazon-affiliation:
   admin:
     settings:
       field:
+        help-mediaembed: 'FoF/Formatting ile birlikte kullanıldığında içe gömme her zaman mevcut etiketleri kaldırır'
         keep-existing-tag: 'Amazon Satış Ortaklığı Etiketlerini değiştirmek yerine orijinal bağlantılardan uzak tutun'
         keep-existing-tag-help: 'Varsayılan olarak, asıl bağlantıda bulunan herhangi bir etiket aşağıda tanımladığınız etiketle değiştirilir.'
         remove-tag-if-unhandled: 'Kapsanmayan Amazon bağlantılarındaki Amazon Satış Ortaklığı Etiketlerini kaldırın'
@@ -15,3 +16,4 @@ fof-amazon-affiliation:
       title:
         modal: 'Amazon Satış Ortağı Ayarları'
         tags: 'Ortaklık Etiketleri'
+        tags-mediaembed: 'Aşağıdaki Amazon siteleri şu anda MediaEmbed için desteklenmemektedir, bu nedenle her zaman düz bağlantılar olarak görüntülenecektir (yukarıdaki ayarlara uyarak): CN, BR, MX, AU'
