@@ -55,9 +55,6 @@
 			"backgroundPosition": "center"
 			}
 		},
-		"flagrow": {
-			"discuss": "https://discuss.flarum.org/d/20684-flarum-extensions-turkish-language-pack"
-		},
 		"flarum-locale": {
 			"code": "tr",
 			"title": "Turkish"
