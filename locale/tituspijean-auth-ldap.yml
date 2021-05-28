@@ -5,19 +5,6 @@
 tituspijean-auth-ldap:
   admin:
     settings:
-      field:
-        account_prefix: 'Hesap Öneki'
-        account_suffix: 'Hesap Soneki'
-        admin_dn: 'LDAP yönetici ayırt edici adı (anonim olması için boş bırakın)'
-        admin_password: 'LDAP yönetici şifresi (anonim olması için boş bırakın)'
-        base_dn: 'Base DNs (noktalı virgülle ayırarak)'
-        filter: 'Filtre uygulama (isteğe bağlı)'
-        hosts: 'LDAP alan adı veya sunucu IP adresi (virgülle ayırarak)'
-        method_name: 'LDAP sunucu adı ("Şununla Giriş Yap" ifadesinden sonra görünür)'
-        port: port
-        search_user_fields: 'LDAP kullanıcı arama alanı (virgülle ayırarak)'
-        user_mail: 'LDAP kullanıcı e-posta alanı'
-        user_username: 'LDAP kullanıcı adı alanı'
       follow_referrals: 'LDAP sunucusuna bağlanmak için adımları izleyin'
       onlyUse: 'Flarum varsayılan giriş yöntemini gizleyin'
       title: 'LDAP ayarları'

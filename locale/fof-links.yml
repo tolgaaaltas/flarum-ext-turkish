@@ -22,12 +22,8 @@ fof-links:
       url_placeholder: '=> fof-links.ref.url'
       visibility: 'Bağlantı görünürlüğü'
     links:
-      about_text: 'Menü bağlantılarını düzenle.'
       create_button: '=> fof-links.ref.create_link'
       links: '=> fof-links.ref.links'
-    nav:
-      links_button: '=> fof-links.ref.links'
-      links_text: 'Üst menü bağlantılarını yönetin.'
   ref:
     create_link: 'Bağlantı Oluştur'
     links: Bağlantılar

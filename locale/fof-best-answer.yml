@@ -19,7 +19,6 @@ fof-best-answer:
       schedule_on_one_server: 'Zamanlayıcı için ''onOneServer()'' kullanın (Redis/Memcache gerektirir)'
       schedule_stop_overnight: 'Hatırlatıcının aktif olunmayan saatlerde çalışmasını engelleyin (ÖS 9 - ÖÖ 8 sunucu saati)'
       select_best_answer_reminder_days: 'Kullanıcıya X günden sonra en iyi yanıtı seçmesini hatırlat'
-      title: 'En İyi Yanıt Ayarları'
       use_alt_ui: 'Alternatif şablonu kullanın (En İyi Yanıt düğmeleri gönderinin sonunda yer alır)'
   email:
     body:
@@ -38,12 +37,10 @@ fof-best-answer:
       mismatch: 'Seçilen gönderi bu tartışmada mevcut değil.'
     notification:
       awarded: 'Gönderiniz {username} tarafından en iyi yanıt olarak seçti'
-      awarded_email: 'Gönderiniz kullanıcı tarafından en iyi yanıt olarak seçti'
       best_answer_in_discussion: '{username} bu tartışmada en iyi yanıtı verdi'
       content: 'Sorunuz yanıtlandıysa lütfen en iyi yanıtı seçin'
       preferences:
         awarded_best_answer: 'Birisi gönderimi en iyi yanıt olarak seçtiğinde'
         best_answer_in_discussion: 'Yanıtladığım bir tartışmada en iyi yanıt belirlendiğinde'
-      select_email_title: 'Sorununuzu çözmeyi başardınız mı?'
     remove_best_answer: 'Mevcut en iyi yanıtı kaldır'
     this_best_answer: 'En iyi yanıt'

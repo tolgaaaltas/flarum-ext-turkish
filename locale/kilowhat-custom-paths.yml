@@ -48,4 +48,3 @@ kilowhat-custom-paths:
         v17development-blog-post: Gönderi
       redirect: 'Varsayılan Flarum dizinlerini yeni dizinlere yönlendirin'
       reset: 'Dizinleri sıfırla'
-      title: 'Özel Dizinler'

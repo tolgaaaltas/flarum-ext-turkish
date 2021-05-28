@@ -12,6 +12,5 @@ clarkwinkelmann-group-list:
       showAvatarBadges: 'Avatarın yanında diğer rozetleri göster'
       showOnlineStatus: 'Çevrimiçi durumu göster'
       showSideNavLink: 'Bağlantıyı yan gezinmede göster'
-      title: 'Kullanıcı Listesi Ayarları'
   forum:
     nav: 'Grup Listesi'

@@ -14,13 +14,6 @@ askvortsov-trust-levels:
       likes_given: 'Verilen Beğeniler'
       likes_received: 'Alınan Beğeniler'
       posts_made: 'Oluşturulan Gönderiler'
-    range_drivers:
-      discussions_entered: 'Girilen Tartışmalar'
-      discussions_participated: 'Katıldığı Tartışmalar'
-      discussions_started: 'Oluşturduğu Tartışmalar'
-      likes_given: 'Verilen Beğeniler'
-      likes_received: 'Alınan Beğeniler'
-      posts_made: 'Yapılan Gönderiler'
     trust_level_modal:
       delete_button: 'Güven Düzeyini Sil'
       delete_confirmation: 'Bu güven düzeyini silmek istediğinizden emin misiniz? Güven düzeyinin grubu, onu alan kullanıcılardan iptal edilmeyecektir.'

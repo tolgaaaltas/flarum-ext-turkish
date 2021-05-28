@@ -5,12 +5,5 @@
 itnt-uitab:
   admin:
     settings:
-      create_page_label: Oluştur
       help_text: 'Eğer Flarum siteniz alt dizine kuruluysa, lütfen aşağıdaki alt dizini belirtin (bölü çizgiyle bitirin), aksi takdirde lütfen varsayılan değeri bırakın. Örneğin, <code>/sub/</code>'
       home_page_label: Anasayfa
-      notifications_page_label: Bildirimler
-      requirement: 'UI Tab uzantısını kullanmadan önce mutlaka <code>flagrow/direct-links</code> uzantısını aktif etmelisiniz'
-      settings_page_label: Ayarlar
-      tags_page_label: Etiketler
-      tags_title: 'Alt Dizin Adresiniz'
-      title: 'UI Tab Ayarları'

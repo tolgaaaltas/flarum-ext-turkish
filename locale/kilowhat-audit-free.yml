@@ -5,16 +5,10 @@
 kilowhat-audit:
   admin:
     header:
-      discuss: 'Flarum Discuss''da Tartışma'
-      documentation: 'Tam çevrimiçi belgeler'
       free: Bedava
       pro: Pro
       title: Denetim
       upgrade: 'Pro''ya yükselt'
-      version: 'Sürüm {version}'
-    menu:
-      description: 'Son eylemleri inceleyin.'
-      title: 'Denetim Günlüğü'
     permissions:
       view: 'Denetim günlüğünü görüntüle'
   forum:

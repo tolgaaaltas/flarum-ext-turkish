@@ -13,7 +13,6 @@ imgur-upload:
         preview-without-link: 'Önizleme olmadan bağlantı'
         title: 'İçe gömme tipi'
       hide-markdown-image: 'Markdown görsel düğmesini Gizle'
-      title: 'Imgur Yükleme Ayarları'
   forum:
     done: Başarılı!
     error: Hata

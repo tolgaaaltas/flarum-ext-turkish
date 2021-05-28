@@ -7,8 +7,6 @@ flarum-ext-welcomebox:
     enablepostbox: 'Ziyaretçiler için Hoşgeldin Kutusunu göster'
   forum:
     discussion: Tartışmalar
-    groupwb: Gruplar
-    logout: Çıkış
     notregistered: 'Henüz bu foruma üye olmadınız.'
     npost: Gönderi
     wback: 'Tekrar hoşgeldin,'

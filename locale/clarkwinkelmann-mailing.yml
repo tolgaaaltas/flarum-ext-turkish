@@ -17,7 +17,6 @@ clarkwinkelmann-mailing:
       mail_individual: 'Bu Kullanıcıya E-Posta Gönder'
     modal_mail:
       default_subject: '=> clarkwinkelmann-mailing.ref.default_subject'
-      email_label: Alıcı
       message_label: Mesaj
       recipients_label: Alıcılar
       recipients_placeholder: 'Daha fazla alıcı ekleyin..'

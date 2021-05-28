@@ -12,4 +12,3 @@ fof-html-errors:
         503: '503 Servis Kullanım Dışı (veya Bakımda)'
       placeholder:
         empty_for_default: 'Varsayılan Flarum hata sayfası için boş bırakın'
-      title: 'Özel HTML Hata Sayfaları'

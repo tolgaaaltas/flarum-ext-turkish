@@ -26,7 +26,6 @@ clarkwinkelmann-popular-discussion-badge:
         everyTenMinutes: 'Her 10 dakikada bir'
         everyThirtyMinutes: 'Her 30 dakikada bir'
         hourly: 'Saatte bir kez'
-      title: 'Popüler tartışmalar rozeti ayarları'
       views: Görüntülenmeler
       views_placeholder: '0'
       within: içinde

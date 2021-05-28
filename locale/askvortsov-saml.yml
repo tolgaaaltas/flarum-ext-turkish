@@ -32,7 +32,6 @@ askvortsov-saml:
     log_in:
       enable_popups: 'Giriş / Kayıt için Açılır Pencereyi Aktif Et'
       open_popup: 'Giriş Penceresini Yeniden Aç'
-      see_popup: 'Giriş / Kayıt için Açılır Pencereyi Gör'
       with_saml_button: 'SAML2 SSO'
     sign_up:
       post_saml_title: 'Son Bir Adım...'

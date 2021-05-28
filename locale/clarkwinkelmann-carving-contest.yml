@@ -10,7 +10,6 @@ clarkwinkelmann-carving-contest:
       custom-help: '#Hex veya rgb() değerlerini virgülle ayırın'
       simple: 'Basit renk seti'
     permissions:
-      heading: 'Oyma Yarışması'
       like: 'Başvuruları beğen'
       moderate: Yönet
       participate: Katıl
@@ -18,7 +17,6 @@ clarkwinkelmann-carving-contest:
     settings:
       colorMode: 'Bölme modu yerine renk modunu kullan'
       maxEntriesPerUser: 'Kullanıcıların en fazla başvuru sayısı'
-      title: 'Oyma Yarışması Ayarları'
   forum:
     likes_modal:
       title: 'Bu başvuruyu beğenen kullanıcılar'

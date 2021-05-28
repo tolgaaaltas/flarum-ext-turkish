@@ -15,6 +15,5 @@ fof-passport:
         button-icon: 'Oturum açma düğmesi simgesi'
         button-title: 'Oturum açma düğmesi etiketi'
         button-title-placeholder: '=> fof-passport.api.default-login-button-title'
-      title: 'FoF Pasaportu'
   api:
     default-login-button-title: '=> core.ref.log_in'

@@ -22,7 +22,6 @@ fof-moderator-notes:
       dismiss_button: Bitti
       input_heading: '<strong>{username}</strong> için notlarınızı girin (markdown desteklenir)'
       noNotes: 'Görünüşe göre burada hiç not yok.'
-      no_content_given: 'Boş bir nota izin verilmez.'
       submit_button: 'Notu kaydet'
     no_content_given: 'Boş bir nota izin verilmez.'
     user:

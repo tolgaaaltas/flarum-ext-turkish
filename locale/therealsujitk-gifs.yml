@@ -4,12 +4,8 @@
 
 therealsujitk:
   admin:
-    about:
-      stringA: 'Uzantı geliştiricisi: '
-      stringB: 'Bana bağış yapın '
     gifs:
       giphyAPIkey: 'Giphy API Key'
-      title: 'GIF API Ayarları'
   forum:
     gifs:
       label: 'GIF ekle'

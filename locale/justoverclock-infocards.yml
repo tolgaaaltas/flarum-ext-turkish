@@ -7,12 +7,6 @@ flarum-ext-infocards:
     apikeyhelp: 'https://countapi.xyz/ üzerinden ücretsiz API anahtarı oluşturun'
     createapikey: 'API Anahtarı'
   forum:
-    Friday: Cuma
-    Monday: Pazartesi
-    Saturday: Cumartesi
-    Thursday: Perşembe
-    Tuesday: Salı
-    Wednesday: Çarşamba
     forumstats: 'Forum İstatistikleri'
     friday: Cuma
     geninfo: 'Genel Bilgi'

@@ -9,7 +9,6 @@ fof-user-directory:
     settings:
       default-sort: 'Varsayılan sıralama'
       link: 'Kullanıcı listesinin görülebilmesi için anasayfaya bağlantı ekle'
-      title: 'Kullanıcı Listesi Ayarları'
       use-small-cards: 'Küçük kullanıcı kartlarını kullan'
   forum:
     header:
@@ -20,19 +19,6 @@ fof-user-directory:
       load_more_button: '=> core.ref.load_more'
       nav: 'Kullanıcı Listesi'
       refresh_tooltip: '=> core.forum.index.refresh_tooltip'
-      sort:
-        default: Varsayılan
-        least_discussions: 'En az tartışma başlatana göre'
-        least_posts: 'En az mesajı olana göre'
-        most_discussions: 'En fazla tartışma başlantana göre'
-        most_posts: 'En fazla mesajı olana göre'
-        newest: 'Yeniye göre'
-        oldest: 'Eskiye göre'
-        relevance: İlgi
-        seen_oldest: 'Uzun süredir girmeyenler'
-        seen_recent: 'Son aktif olanlar'
-        username_az: 'Kullanıcı adı (a-z)'
-        username_za: 'Kullanıcı adı (z-a)'
     search:
       field:
         placeholder: 'Tüm kullanıcılarda ara'
@@ -47,7 +33,5 @@ fof-user-directory:
       newest: 'En yeni'
       not_specified: 'Flarum''u varsayılan olarak kullan'
       oldest: 'En eski'
-      seen_oldest: 'Ziyaret etmeyenler'
-      seen_recent: 'Son çevrimiçi olan'
       username_az: 'Kullanıcı Adı (a-z)'
       username_za: 'Kullanıcı Adı (z-a)'

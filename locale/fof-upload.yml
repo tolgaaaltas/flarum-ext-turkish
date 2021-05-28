@@ -9,7 +9,6 @@ fof-upload:
     help_texts:
       client_extension: "Varsayılan olarak Yükle, MIME türüne göre güvenli bir dosya uzantısı seçecektir.\nZIP veya ikili verilere dayalı bazı dosya türleri için bu, beklenen uzantıların yerine genel uzantıların kullanılmasına neden olabilir.\nBurada, aynen tutulacak dosya uzantılarının virgülle ayrılmış bir listesini girebilirsiniz.\n"
       composer_buttons: "Varsayılan olarak hem medya yöneticisi düğmesi hem de yükleme düğmesi görünür durumdadır. Ayrıca yalnızca bir düğmeyi görüntülemeyi de seçebilirsiniz.\n"
-      description: "Dosya yükleme servisleri ve ayarları.\n"
       disable-download-logging: "Forum kullanıcıları tarafından yapılan her indirme işleminin kaydını etkisizleştir. Etkinleştirilmesi, gelecekte indirenlerin sayısını ve diğer ölçümleri görmenizi sağlar.\n"
       disable-hotlink-protection: "Hotlink koruması, diğer sitelerden indirme yapılmasına engel olur. Geçerli bir csrf token ve post id'si gereklidir.\n"
       download_templates: "İndirme şablonları, dosyaların forumunuzda nasıl görüneceğini ayarlamanızı sağlar, örneğin önizleme veya düğme gibi. Mevcut olanlar:\n"
@@ -103,7 +102,7 @@ fof-upload:
       upload: Yükle
       user_uploads: 'Kullanıcı yüklemeleri'
     file_list:
-      confirm_selection_btn: 'Dosya seçin|Dosyaları seçin'
+      confirm_selection_btn: '{fileCount, plural, =0 {Seçilmedi} one {Dosya seçin} other {Dosyaları seçin}}'
       empty: 'Gösterilecek dosya bulunmuyor.'
       hide_file:
         btn_a11y_label: '"{fileName}" dosyasını medya yöneticisinden gizle'

@@ -18,19 +18,3 @@ askvortsov-markdown-tables:
         remove_row: 'Satırı sil'
         row: Sıra
       table_tooltip: Tablo
-askvortsov-pipetables:
-  forum:
-    composer:
-      table_menu:
-        column: Sütun
-        insert_column_after: 'Sonrasına sütun ekle'
-        insert_column_before: 'Öncesine sütun ekle'
-        insert_row_after: 'Sonrasına satır ekle'
-        insert_row_before: 'Öncesine satır ekle'
-        label_cells: '# Hücreleri etiketle?'
-        num_cols: '# Sütunlar'
-        num_rows: '# Satırlar (başlık dahil)'
-        remove_column: 'Sütunu kaldır'
-        remove_row: 'Satırı kaldır'
-        row: Satır
-      table_tooltip: Tablo

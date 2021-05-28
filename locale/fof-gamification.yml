@@ -8,8 +8,6 @@ core:
       hot_button: Sıralama
 fof-gamification:
   admin:
-    nav:
-      desc: 'Flarum topluluğunuz için oyunlaştırma'
     page:
       convert:
         button: 'Beğenileri yukarı oya çevir'
@@ -55,7 +53,6 @@ fof-gamification:
   forum:
     mod_item: 'Oy Verenleri Göster'
     modal:
-      downvotes_label: 'Aşağı oy verenler:'
       title: 'Oy Verenler'
       upvotes_label: 'Yukarı oyverenler:'
     nav:

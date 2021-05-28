@@ -12,7 +12,6 @@ fof-masquerade:
       add: 'Alan ekle {field}'
       description: 'Alan açıklaması'
       description-help: "Bu alanın kullanımı için isteğe bağlı açıklama.\n"
-      disable-user-bio: 'Kullanıcı biyografisi kısmını devre dışı bırak'
       edit: 'Alan düzenle {field}'
       force-user-to-completion: 'Kullanıcıyı profilini tamamlamaya zorla'
       icon: Simge
@@ -20,7 +19,6 @@ fof-masquerade:
       name: 'Alan adı'
       name-help: "Herkes tarafından görülebilen (çevrilmeyen) alan.\n"
       on_bio: 'Kullanıcı biyografisinde bu alana cevabı göster'
-      option-coma-warning: 'Seçeneğin etiketi (",") işareti içeremez.'
       option-comma-warning: 'Bir seçeneğin etiketi herhangi bir virgül (",") içeremez.'
       option-new: 'Yeni seçenek'
       options: Seçenekler
@@ -32,12 +30,9 @@ fof-masquerade:
       validation: Doğrulama
       validation-help: "Desteklenen <a>Laravel doğrulama kurallarını</a> kontrol edin. Çrn: \"string|min:5\" ya da \"url\".\n"
     general-options: 'Genel ayarlar'
-    menu:
-      description: "Kullanıcı profili alanlarını düzenle.\n"
     permissions:
       have-profile: 'Masquerade profili var'
       view-profile: 'Masquerade profilini görüntüle'
-    title: Masquerade
     types:
       advanced: Gelişmiş
       boolean: 'Seçim listesi'

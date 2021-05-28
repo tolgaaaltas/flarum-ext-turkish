@@ -16,7 +16,6 @@ fof-drafts:
     scheduled_drafts_disabled: 'Zamanlanmış taslaklar şu anda ayarlardan etkisizleştirilmiştir.'
   forum:
     composer:
-      alert: 'Taslak kaydedildi.'
       discard_empty_draft_alert: 'Boş taslak silinsin mi?'
       exit_alert: 'Taslaktaki değişiklikler yok sayılsın mı?'
       saved: Kaydedildi!
@@ -24,7 +23,6 @@ fof-drafts:
       title: 'Taslağı Kaydet'
     dropdown:
       alert: 'Taslağınızı silmek istediğine emin misiniz?'
-      button: 'Taslağı Sil'
       delete_all_alert: 'Tüm taslaklarınızı silmek istediğinizden emin misiniz?'
       delete_button: 'Taslağı Sil'
       empty_text: 'Herhangi bir taslak kaydetmediniz'

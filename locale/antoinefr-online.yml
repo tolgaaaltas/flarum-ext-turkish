@@ -6,7 +6,6 @@ antoinefr-online:
   admin:
     settings:
       displaymax: 'Gösterilecek kullanıcı sayısı'
-      title: Ayarlar
       titleoflist: 'Listenin üstünde görüntülenecek başlık'
   forum:
     andmore: 've {more} daha...'

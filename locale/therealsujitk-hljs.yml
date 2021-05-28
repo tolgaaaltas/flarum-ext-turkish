@@ -4,9 +4,5 @@
 
 therealsujitk:
   admin:
-    about:
-      stringA: 'Uzantı geliştiricisi '
-      stringB: 'Bağış Yap '
     hljs:
       themename: 'Tema Adı'
-      title: highlight.js

@@ -6,7 +6,6 @@ clarkwinkelmann-bookmarks:
   admin:
     settings:
       independentButton: 'İşaretleme kontrolünü tartışma yan menüsüne ekle'
-      title: 'İşaretle Ayarları'
   forum:
     badge: İşaretlendi
     dropdownButton:

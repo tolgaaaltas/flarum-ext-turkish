@@ -37,8 +37,6 @@ askvortsov-categories:
       categories_link: '=> askvortsov-categories.ref.categories'
     last_discussion_widget:
       no_discussions: 'Hiç Tartışma Yok (Şimdilik!)'
-    meta:
-      categories_title: Kategoriler
     stat-widgets:
       discussion_label: Tartışmalar
       post_label: Gönderiler

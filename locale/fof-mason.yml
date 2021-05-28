@@ -38,15 +38,11 @@ fof-mason:
       user_values_allowed-help: "Etkinleştirilir ise kullanıcılar yönetici tarafından tanımlananlar yerine kendi değerlerini ekleyebilir. Bu değerler \"Doğrulama\" ayarına göre kontrol edilecektir. Etkisizleştirilir ise yalnızca \"önerilen\" yanıtları kullanabilirler.\n"
       validation: 'Kullanıcı değerleri için doğrulama'
       validation-help: "Desteklenen <a>Laravel doğrulama kurallarını</a> kontrol edin. Örneğin: \"string|min:5\" or \"url\".\n"
-    menu:
-      description: 'Özel tartışma alanlarını yapılandırın.'
-      title: Mason
     messages:
       delete-answer-confirmation: "\"{content}\" yanıtını silmek istediğinizden emin misiniz? Onu kullanan tüm tartışmalardan kaldırılacaktır. Mevcut yanıtları korumak istiyorsanız bunun yerine yanıt önerisini etkisizleştirin. Yanıt silinsin mi?\n"
       delete-field-confirmation: "\"{name}\" alanını silmek istediğinizden emin misiniz? Alan ve yanıtları, onları kullanan tüm tartışmalardan kaldırılacaktır. Alan silinsin mi?\n"
     permissions:
       fill-fields: 'Yeni tartışmalarda alanları doldurun'
-      mason-heading: Mason
       see-other-fields: 'Mevcut tüm tartışmalardaki alanları görün'
       see-own-fields: 'Alanları kendi mevcut tartışmalarınızda görün'
       skip-required-fields: 'Gerekli alanları atlama izni var'

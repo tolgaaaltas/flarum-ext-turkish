@@ -16,6 +16,8 @@ ianm-follow-users:
   forum:
     badge:
       label: 'Takip edilen kullanıcı'
+    filter:
+      following: 'Takip edilen kullanıcılar'
     index:
       follow_tag_button: 'Takip Et'
       unfollow_tag_button: 'Takibi Bırak'

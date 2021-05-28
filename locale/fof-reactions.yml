@@ -4,8 +4,6 @@
 
 fof-reactions:
   admin:
-    nav:
-      desc: 'İfade ekleyin veya düzenleyin.'
     page:
       convert:
         button: 'Eski ifadeleri dönüştür'

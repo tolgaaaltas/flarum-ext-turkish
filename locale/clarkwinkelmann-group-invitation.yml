@@ -18,7 +18,6 @@ clarkwinkelmann-group-invitation:
         code: 'Otomatik oluşturuldu'
         group: Seçildi...
         usage: 'Sınırsız için boş bırakınız'
-      title: 'Grup Daveti'
       unlimited: sınırsız
   api:
     error:

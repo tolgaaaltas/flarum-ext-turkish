@@ -49,7 +49,6 @@ fof-linguist:
       warning: "Dışa aktarma biçimi Flarum'un YAML tabanlı çeviri dosyalarında ve çevirileri forumlar arasında dil paketi oluşturmak için kullanılır. Format, tüm çevirileri yeni bir foruma taşımak için tasarlanmamıştır. Kullanım durumunuza bağlı olarak veritabanından doğrudan kopyalamak daha iyi olabilir.\n"
     filters:
       for-extension: 'Uzantılar için'
-      for-extension-unavailable: 'Beklenen "{namespace}" ad alanında çeviri bulunamadı. Belki bu uzantı, çevrilecek herhangi bir metne sahip değildir veya farklı bir ad alanı kullanıyor. Çevirilerini bulmak için arama alanını kullanmayı deneyin.'
       frontend: 'Ön uç için'
       frontend-all-except-admin: 'Yönetici hariç tümü'
       mass-edit: 'Toplu düzenleme'
@@ -67,9 +66,7 @@ fof-linguist:
         any: 'Aslı veya Özel'
         original: Aslı
         own: Özel
-      with-original-translations-in-locales: 'Asıl çevirilerde'
       with-own-translations: Çevirilerim
-      without-original-translations-in-locales: 'Asıl çeviriler olmadan'
     import:
       input: Giriş
       input-placeholder: 'YAML dosyasını sürükleyip bırakın veya yapıştırın'
@@ -91,9 +88,6 @@ fof-linguist:
       validation: 'Doğrulama Hataları'
     locales:
       all: Tümü
-    menu:
-      description: 'Çevirileri özelleştirin.'
-      title: Linguist
     placeholder:
       all-locales: 'Bu alana yazılan bir metin tüm dillerde gösterilir.'
       hint: 'Asıl değer:'
