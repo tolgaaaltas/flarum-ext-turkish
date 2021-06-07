@@ -1,6 +1,6 @@
 # Important reminder
 
-This package abandoned. Please install [flarum-lang/turkish](https://github.com/flarum-lang/turkish)
+This package has been abandoned. Please install [flarum-lang/turkish](https://github.com/flarum-lang/turkish).
 
 # 🇹🇷 Turkish Extensions Experience Pack for Flarum
 
