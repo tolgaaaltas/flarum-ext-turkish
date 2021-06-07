@@ -1,4 +1,4 @@
-# Important reminder
+# 🚨 Important reminder
 
 This package has been abandoned. Please install [flarum-lang/turkish](https://github.com/flarum-lang/turkish).
 
