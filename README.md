@@ -1,3 +1,7 @@
+# Important reminder
+
+This package abandoned. Please install [flarum-lang/turkish](https://github.com/flarum-lang/turkish)
+
 # 🇹🇷 Turkish Extensions Experience Pack for Flarum
 
 Translates Flarum extensions to Turkish
